@@ -8,13 +8,14 @@
     return a;
   }
   function makeItems(questions, random = Math.random) {
-    return shuffle(questions, random).map(q => ({id:q.id, keys:shuffle([
+    return [...questions].sort((a,b) => a.variant - b.variant || a.number - b.number).map(q => ({id:q.id, keys:shuffle([
       q.correct, ...shuffle(q.options.filter(o => o.key !== q.correct), random).slice(0,3).map(o => o.key)
     ], random)}));
   }
   function score(items, answers, bank) {
+    const answered = items.filter(i => Boolean(answers[i.id])).length;
     const correct = items.filter(i => answers[i.id] === bank.get(i.id).correct).length;
-    return {correct, total:items.length, percent:items.length ? Math.round(correct / items.length * 100) : 0};
+    return {correct, answered, incorrect:answered - correct, skipped:items.length - answered, total:items.length, percent:answered ? Math.round(correct / answered * 100) : 0};
   }
   const api = {shuffle, makeItems, score};
   if (typeof module !== 'undefined') module.exports = api;
