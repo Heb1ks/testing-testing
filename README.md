@@ -6,4 +6,4 @@
 
 Для локального запуска: `python -m http.server 8080`, затем открыть http://localhost:8080. Сайт не требует сборки или зависимостей. Шрифт Google Fonts необязателен: без него используется системный шрифт.
 
-Публикация: GitHub Pages → Source: GitHub Actions. Workflow в `.github/workflows/pages.yml` публикует сайт при изменении main.
+Публикация: GitHub Pages → Deploy from a branch → main → / (root). Файл .nojekyll позволяет публиковать статический сайт напрямую.
