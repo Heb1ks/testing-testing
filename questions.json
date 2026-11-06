@@ -1,0 +1,5135 @@
+[
+  {
+    "id": "v1-q1",
+    "variant": 1,
+    "number": 1,
+    "text": "Which budget is used for contract changes that there was no time to plan into the performance budget?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The undistributed budget."
+      },
+      {
+        "key": "B",
+        "text": "The scheduled work budget."
+      },
+      {
+        "key": "C",
+        "text": "The management reserve."
+      },
+      {
+        "key": "D",
+        "text": "The unallocated budget."
+      },
+      {
+        "key": "E",
+        "text": "The distributed budget."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q2",
+    "variant": 1,
+    "number": 2,
+    "text": "Which approach to project problems does the earned value measurement system emphasize?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Using the management reserve for each variance."
+      },
+      {
+        "key": "B",
+        "text": "Moving overruns into the undistributed budget."
+      },
+      {
+        "key": "C",
+        "text": "Correcting variances in large steps at milestones."
+      },
+      {
+        "key": "D",
+        "text": "Reviewing performance only at project closure."
+      },
+      {
+        "key": "E",
+        "text": "Finding and solving problems before they grow."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q3",
+    "variant": 1,
+    "number": 3,
+    "text": "How are formal groups created in an organization?",
+    "options": [
+      {
+        "key": "A",
+        "text": "By management decision, for organizational goals."
+      },
+      {
+        "key": "B",
+        "text": "By employees who share interests or friendships."
+      },
+      {
+        "key": "C",
+        "text": "By the customer, to review the project deliverables."
+      },
+      {
+        "key": "D",
+        "text": "From people who work near each other."
+      },
+      {
+        "key": "E",
+        "text": "By the members themselves, to meet social needs."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q4",
+    "variant": 1,
+    "number": 4,
+    "text": "Which term describes the power, often given by position, to make final decisions?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hierarchical referral."
+      },
+      {
+        "key": "B",
+        "text": "Accountability."
+      },
+      {
+        "key": "C",
+        "text": "Direct contact."
+      },
+      {
+        "key": "D",
+        "text": "Authority."
+      },
+      {
+        "key": "E",
+        "text": "Responsibility."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q5",
+    "variant": 1,
+    "number": 5,
+    "text": "What determines whether a matrix structure is strong or weak?",
+    "options": [
+      {
+        "key": "A",
+        "text": "How many projects report to the general manager."
+      },
+      {
+        "key": "B",
+        "text": "How large the project budget is compared with others."
+      },
+      {
+        "key": "C",
+        "text": "Whether staff remain loyal to their functional units."
+      },
+      {
+        "key": "D",
+        "text": "Who has more influence over workers' daily performance."
+      },
+      {
+        "key": "E",
+        "text": "Whether a liaison department handles engineering changes."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q6",
+    "variant": 1,
+    "number": 6,
+    "text": "The matrix form tries to combine the advantages of which two structures?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Product and task force structures."
+      },
+      {
+        "key": "B",
+        "text": "Functional and line-staff structures."
+      },
+      {
+        "key": "C",
+        "text": "Pure functional and product structures."
+      },
+      {
+        "key": "D",
+        "text": "Line-staff and liaison structures."
+      },
+      {
+        "key": "E",
+        "text": "Task force and departmental structures."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q7",
+    "variant": 1,
+    "number": 7,
+    "text": "In the Agile Manifesto, which item is valued more than comprehensive documentation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Contract negotiation."
+      },
+      {
+        "key": "B",
+        "text": "Working software."
+      },
+      {
+        "key": "C",
+        "text": "Individuals and interactions."
+      },
+      {
+        "key": "D",
+        "text": "Customer collaboration."
+      },
+      {
+        "key": "E",
+        "text": "Responding to change."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q8",
+    "variant": 1,
+    "number": 8,
+    "text": "What does the Japanese word \"Kanban\" mean?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Bottleneck."
+      },
+      {
+        "key": "B",
+        "text": "Waste."
+      },
+      {
+        "key": "C",
+        "text": "Workflow."
+      },
+      {
+        "key": "D",
+        "text": "Signboard."
+      },
+      {
+        "key": "E",
+        "text": "Iteration."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q9",
+    "variant": 1,
+    "number": 9,
+    "text": "Which agile approach is a family of customized methods that classifies projects by criticality and team size?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kanban."
+      },
+      {
+        "key": "B",
+        "text": "Crystal."
+      },
+      {
+        "key": "C",
+        "text": "Feature-Driven Development."
+      },
+      {
+        "key": "D",
+        "text": "Extreme Programming."
+      },
+      {
+        "key": "E",
+        "text": "DSDM."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q10",
+    "variant": 1,
+    "number": 10,
+    "text": "Which Scrum value is needed to take on difficult problems and do what is right, even when it is uncomfortable?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Courage."
+      },
+      {
+        "key": "B",
+        "text": "Focus."
+      },
+      {
+        "key": "C",
+        "text": "Openness."
+      },
+      {
+        "key": "D",
+        "text": "Respect."
+      },
+      {
+        "key": "E",
+        "text": "Commitment."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q11",
+    "variant": 1,
+    "number": 11,
+    "text": "Which question does the first topic of Sprint Planning answer?",
+    "options": [
+      {
+        "key": "A",
+        "text": "What went well in the last Sprint?"
+      },
+      {
+        "key": "B",
+        "text": "What was achieved in the Sprint?"
+      },
+      {
+        "key": "C",
+        "text": "How will the chosen work get done?"
+      },
+      {
+        "key": "D",
+        "text": "What can be Done this Sprint?"
+      },
+      {
+        "key": "E",
+        "text": "Why is this Sprint valuable?"
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q12",
+    "variant": 1,
+    "number": 12,
+    "text": "In Scrum, which commitment belongs to the Product Backlog?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Increment."
+      },
+      {
+        "key": "B",
+        "text": "The Product Goal."
+      },
+      {
+        "key": "C",
+        "text": "The Sprint Backlog."
+      },
+      {
+        "key": "D",
+        "text": "The Sprint Goal."
+      },
+      {
+        "key": "E",
+        "text": "The Definition of Done."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q13",
+    "variant": 1,
+    "number": 13,
+    "text": "Which persona element explains how and why the intended user interacts with the solution?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Differentiators."
+      },
+      {
+        "key": "B",
+        "text": "Needs."
+      },
+      {
+        "key": "C",
+        "text": "Motivations."
+      },
+      {
+        "key": "D",
+        "text": "Traits and characteristics."
+      },
+      {
+        "key": "E",
+        "text": "Name and image."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q14",
+    "variant": 1,
+    "number": 14,
+    "text": "Which INVEST criterion means the way a story is delivered is not fixed in advance and can be discussed with the team?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Valuable."
+      },
+      {
+        "key": "B",
+        "text": "Testable."
+      },
+      {
+        "key": "C",
+        "text": "Negotiable."
+      },
+      {
+        "key": "D",
+        "text": "Estimable."
+      },
+      {
+        "key": "E",
+        "text": "Independent."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q15",
+    "variant": 1,
+    "number": 15,
+    "text": "Which three elements make up the 3Cs of user stories?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Conversation, Contract and Commitment."
+      },
+      {
+        "key": "B",
+        "text": "Customer, Card and Criteria."
+      },
+      {
+        "key": "C",
+        "text": "Collaboration, Content and Confirmation."
+      },
+      {
+        "key": "D",
+        "text": "Card, Commitment and Collaboration."
+      },
+      {
+        "key": "E",
+        "text": "Card, Conversation and Confirmation."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q16",
+    "variant": 1,
+    "number": 16,
+    "text": "Scenario: An e-government portal project in Astana had accurate initial estimates, but nobody updated the forecast of what the unfinished modules would cost. In month 10 the team discovered the remaining work needed twice the money left.Question: Which requirement of an effective control system was missing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thorough planning of the work to be performed."
+      },
+      {
+        "key": "B",
+        "text": "Periodic re-estimation of cost to complete."
+      },
+      {
+        "key": "C",
+        "text": "Good initial estimating of time, labor and costs."
+      },
+      {
+        "key": "D",
+        "text": "A disciplined budget and authorization of expenditures."
+      },
+      {
+        "key": "E",
+        "text": "Clear communication of the scope of required tasks."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q17",
+    "variant": 1,
+    "number": 17,
+    "text": "Scenario: After the plan for a tax-system upgrade is approved, the project manager issues a signed work order that releases funds so the database team can start its work package.Question: To which phase of the operating cycle does this activity belong?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Work authorization and release."
+      },
+      {
+        "key": "B",
+        "text": "Cost data collection and reporting."
+      },
+      {
+        "key": "C",
+        "text": "Cost analysis."
+      },
+      {
+        "key": "D",
+        "text": "Reporting to customer and management."
+      },
+      {
+        "key": "E",
+        "text": "Variance at completion forecasting."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q18",
+    "variant": 1,
+    "number": 18,
+    "text": "Scenario: For a data-center project, BCWS is $450, BCWP is $400 and ACWP is $500 (in thousands).Question: What is the cost variance, and what does it indicate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "+50; the project is on budget."
+      },
+      {
+        "key": "B",
+        "text": "-100; the work cost more than budgeted."
+      },
+      {
+        "key": "C",
+        "text": "+100; the work cost less than budgeted."
+      },
+      {
+        "key": "D",
+        "text": "-100; the project is ahead of schedule."
+      },
+      {
+        "key": "E",
+        "text": "-50; the project is behind schedule."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q19",
+    "variant": 1,
+    "number": 19,
+    "text": "Scenario: A cloud-migration project shows BCWP = 400 and ACWP = 500 (thousand dollars).Question: What is the CPI, and how should it be interpreted?",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.25; work is faster than planned."
+      },
+      {
+        "key": "B",
+        "text": "0.8; work is costing more than planned."
+      },
+      {
+        "key": "C",
+        "text": "0.8; work is slower than planned."
+      },
+      {
+        "key": "D",
+        "text": "1.0; cost performance is perfect."
+      },
+      {
+        "key": "E",
+        "text": "1.25; work is costing less than planned."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q20",
+    "variant": 1,
+    "number": 20,
+    "text": "Scenario: An HR-system project has a budget at completion of $1,000 thousand and a current CPI of 0.8.Question: What is the estimate at completion if this efficiency continues?",
+    "options": [
+      {
+        "key": "A",
+        "text": "$1,000 thousand."
+      },
+      {
+        "key": "B",
+        "text": "$800 thousand."
+      },
+      {
+        "key": "C",
+        "text": "$1,200 thousand."
+      },
+      {
+        "key": "D",
+        "text": "$1,250 thousand."
+      },
+      {
+        "key": "E",
+        "text": "$1,080 thousand."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q21",
+    "variant": 1,
+    "number": 21,
+    "text": "Scenario: Two weeks into a new digitization team, members argue about the approach and two senior developers openly compete to lead technical decisions.Question: Which stage of group development is the team in?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Norming."
+      },
+      {
+        "key": "B",
+        "text": "Adjourning."
+      },
+      {
+        "key": "C",
+        "text": "Storming."
+      },
+      {
+        "key": "D",
+        "text": "Performing."
+      },
+      {
+        "key": "E",
+        "text": "Forming."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q22",
+    "variant": 1,
+    "number": 22,
+    "text": "Scenario: A procurement specialist at a ministry is expected to finish a tender report and, on the same afternoon, to sit on an interview panel in another building. Doing one makes the other impossible.Question: What is this situation called?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Role conflict."
+      },
+      {
+        "key": "B",
+        "text": "Punctuated equilibrium."
+      },
+      {
+        "key": "C",
+        "text": "Storming."
+      },
+      {
+        "key": "D",
+        "text": "Group cohesiveness."
+      },
+      {
+        "key": "E",
+        "text": "Groupthink."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q23",
+    "variant": 1,
+    "number": 23,
+    "text": "Scenario: At an IT integrator in Almaty, management rates its engineers' technical skills very highly, yet most client projects finish late and over budget.Question: What does this situation most likely indicate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "An ideal structure needing no change."
+      },
+      {
+        "key": "B",
+        "text": "A market-wide fall in IT demand."
+      },
+      {
+        "key": "C",
+        "text": "A shortage of technical certification."
+      },
+      {
+        "key": "D",
+        "text": "Budgets that were set too generously."
+      },
+      {
+        "key": "E",
+        "text": "A structural problem in managing projects."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q24",
+    "variant": 1,
+    "number": 24,
+    "text": "Scenario: After a failed data migration at a bank, the project manager and the head of the infrastructure department each insist that the other caused the failure.Question: If trust continues to grow, what should happen next?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both managers readily admit responsibility."
+      },
+      {
+        "key": "B",
+        "text": "Both managers deny that any problem exists."
+      },
+      {
+        "key": "C",
+        "text": "The general manager replaces one of them."
+      },
+      {
+        "key": "D",
+        "text": "Both escalate the issue to the customer."
+      },
+      {
+        "key": "E",
+        "text": "Both begin to formally anticipate problems."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q25",
+    "variant": 1,
+    "number": 25,
+    "text": "Scenario: The finance department of a state-owned utility can see at a glance what each department spends and keep it within agreed limits.Question: Which advantage of the traditional structure does this reflect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "One person responsible for each project."
+      },
+      {
+        "key": "B",
+        "text": "Easier budgeting and cost control."
+      },
+      {
+        "key": "C",
+        "text": "Higher motivation and innovation."
+      },
+      {
+        "key": "D",
+        "text": "Fast response to customer needs."
+      },
+      {
+        "key": "E",
+        "text": "A single customer focal point."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q26",
+    "variant": 1,
+    "number": 26,
+    "text": "Scenario: A client of a software firm in Astana keeps asking who is in charge of her project; each department head says it is responsible only for its own part.Question: Which weakness of the traditional structure does this show?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Excessive project authority."
+      },
+      {
+        "key": "B",
+        "text": "Too many bosses per employee."
+      },
+      {
+        "key": "C",
+        "text": "Too few specialists to share."
+      },
+      {
+        "key": "D",
+        "text": "Weak technical control."
+      },
+      {
+        "key": "E",
+        "text": "No customer focal point."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q27",
+    "variant": 1,
+    "number": 27,
+    "text": "Scenario: Before creating any project manager positions, a company coordinates work between units through rules and procedures, planning processes, hierarchical referral and direct contact.Question: What are these coordination methods called?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Integrating mechanisms."
+      },
+      {
+        "key": "B",
+        "text": "Matrix role definitions."
+      },
+      {
+        "key": "C",
+        "text": "Projectized authority lines."
+      },
+      {
+        "key": "D",
+        "text": "Stages in the growth of trust."
+      },
+      {
+        "key": "E",
+        "text": "Liaison department duties."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q28",
+    "variant": 1,
+    "number": 28,
+    "text": "Scenario: In a defense contractor's projectized division, the program manager assigns all work and also conducts the merit reviews of team members.Question: Which advantage of this structure does this illustrate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Strong continuity in each discipline."
+      },
+      {
+        "key": "B",
+        "text": "Better use of scarce specialists."
+      },
+      {
+        "key": "C",
+        "text": "Lower cost through shared personnel."
+      },
+      {
+        "key": "D",
+        "text": "Easier staff sharing between projects."
+      },
+      {
+        "key": "E",
+        "text": "Full line authority over the project."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q29",
+    "variant": 1,
+    "number": 29,
+    "text": "Scenario: A fintech company in Astana has complex products with short life cycles as its primary output.Question: Which organizational form is most worth considering?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A pure functional organization."
+      },
+      {
+        "key": "B",
+        "text": "Departmental project leaders."
+      },
+      {
+        "key": "C",
+        "text": "Liaison departments only."
+      },
+      {
+        "key": "D",
+        "text": "A matrix organization."
+      },
+      {
+        "key": "E",
+        "text": "Integrating mechanisms only."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q30",
+    "variant": 1,
+    "number": 30,
+    "text": "Scenario: An akimat is building a standard two-storey school from a design that has already been used for dozens of schools. Every construction step can be specified before work starts.Question: Which type of process best fits this project?",
+    "options": [
+      {
+        "key": "A",
+        "text": "An experimental process with frequent pivots."
+      },
+      {
+        "key": "B",
+        "text": "An empirical process refined in each cycle."
+      },
+      {
+        "key": "C",
+        "text": "An iterative process driven by user feedback."
+      },
+      {
+        "key": "D",
+        "text": "An incremental process with emerging scope."
+      },
+      {
+        "key": "E",
+        "text": "A defined process with steps set in advance."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q31",
+    "variant": 1,
+    "number": 31,
+    "text": "Scenario: An agile team at a state agency has a fixed budget of 100 million tenge and a fixed six-month deadline. Halfway through, it is clear that not every requested feature will fit.Question: Following the agile triangle, what should be adjusted?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The scope delivered within the fixed cost and time."
+      },
+      {
+        "key": "B",
+        "text": "The quality, so that scope, cost and time stay fixed."
+      },
+      {
+        "key": "C",
+        "text": "The deadline, so that full scope fits the budget."
+      },
+      {
+        "key": "D",
+        "text": "The budget, so that full scope meets the deadline."
+      },
+      {
+        "key": "E",
+        "text": "Both budget and deadline, while scope stays frozen."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q32",
+    "variant": 1,
+    "number": 32,
+    "text": "Scenario: A sponsor asks how the e-procurement project is going. The project manager reports that 80% of planned tasks are complete, but nothing can yet be demonstrated to users.Question: Which agile principle shows the weakness of this progress report?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Business people and developers work together daily."
+      },
+      {
+        "key": "B",
+        "text": "Working software is the main measure of progress."
+      },
+      {
+        "key": "C",
+        "text": "The team reflects at regular intervals to improve."
+      },
+      {
+        "key": "D",
+        "text": "Requirements changes are welcome even late on."
+      },
+      {
+        "key": "E",
+        "text": "Simplicity maximizes the amount of work not done."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q33",
+    "variant": 1,
+    "number": 33,
+    "text": "Scenario: Before writing the code that calculates property tax, developers on an XP team first write automated checks that the code must pass.Question: Which XP practice is the team using?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Refactoring."
+      },
+      {
+        "key": "B",
+        "text": "Pair programming."
+      },
+      {
+        "key": "C",
+        "text": "Customer tests."
+      },
+      {
+        "key": "D",
+        "text": "Test-driven development."
+      },
+      {
+        "key": "E",
+        "text": "Collective code ownership."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q34",
+    "variant": 1,
+    "number": 34,
+    "text": "Scenario: Developers at a bank in Almaty are each assigned to three projects at once and lose time every time they move from one to another.Question: Which Lean waste does this describe?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Motion."
+      },
+      {
+        "key": "B",
+        "text": "Extra processes."
+      },
+      {
+        "key": "C",
+        "text": "Task switching."
+      },
+      {
+        "key": "D",
+        "text": "Partially done work."
+      },
+      {
+        "key": "E",
+        "text": "Defects."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q35",
+    "variant": 1,
+    "number": 35,
+    "text": "Scenario: A project leader at an Astana startup lets the developers choose the technical steps and tools, trusting their expertise rather than dictating the approach.Question: Which Lean core concept does this reflect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Optimize the whole."
+      },
+      {
+        "key": "B",
+        "text": "Defer decisions."
+      },
+      {
+        "key": "C",
+        "text": "Deliver fast."
+      },
+      {
+        "key": "D",
+        "text": "Amplify learning."
+      },
+      {
+        "key": "E",
+        "text": "Empower the team."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q36",
+    "variant": 1,
+    "number": 36,
+    "text": "Scenario: During an iteration, a deputy director keeps pulling developers into unplanned meetings. Their agile leader asks him to route requests through her instead.Question: Which servant leader duty is she performing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Carrying food and water."
+      },
+      {
+        "key": "B",
+        "text": "Re-communicating the project vision."
+      },
+      {
+        "key": "C",
+        "text": "Practicing transparency."
+      },
+      {
+        "key": "D",
+        "text": "Shielding the team from interruptions."
+      },
+      {
+        "key": "E",
+        "text": "Recognizing conflict as a positive step."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q37",
+    "variant": 1,
+    "number": 37,
+    "text": "Scenario: A digital team at the Shymkent akimat decides which features to build next only after observing how citizens actually used the previous release of its service portal, rather than relying on a long upfront forecast.Question: Which foundation of Scrum does this behavior reflect most directly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Critical path analysis."
+      },
+      {
+        "key": "B",
+        "text": "Waterfall phase gating."
+      },
+      {
+        "key": "C",
+        "text": "Empiricism."
+      },
+      {
+        "key": "D",
+        "text": "Lean thinking."
+      },
+      {
+        "key": "E",
+        "text": "Predictive planning."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q38",
+    "variant": 1,
+    "number": 38,
+    "text": "Scenario: An IT manager at a bank proposes creating a testing sub-team inside the Scrum Team, with its own lead who reports to a senior developer.Question: Which response is consistent with Scrum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Accept it, since testers need a separate lead to stay focused."
+      },
+      {
+        "key": "B",
+        "text": "Accept it, since cross-functional teams need specialized sub-units."
+      },
+      {
+        "key": "C",
+        "text": "Accept it, if the Scrum Master approves the reporting line."
+      },
+      {
+        "key": "D",
+        "text": "Reject it, since a Scrum Team has no sub-teams or hierarchies."
+      },
+      {
+        "key": "E",
+        "text": "Reject it, since testing should be done by the Product Owner."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q39",
+    "variant": 1,
+    "number": 39,
+    "text": "Scenario: A ministry assigns a steering committee of five deputy heads to act jointly as the Product Owner for a new licensing system.Question: What is the main problem with this arrangement from a Scrum perspective?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Product Owner must be a member of the Developers."
+      },
+      {
+        "key": "B",
+        "text": "The Product Owner must be one person, not a committee."
+      },
+      {
+        "key": "C",
+        "text": "Deputy heads lack the technical skills to size items."
+      },
+      {
+        "key": "D",
+        "text": "A committee cannot attend the Daily Scrum every day."
+      },
+      {
+        "key": "E",
+        "text": "The committee should include the Scrum Master as chair."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q40",
+    "variant": 1,
+    "number": 40,
+    "text": "Scenario: The Scrum Master of a team at a telecom company announces: \"I will decide who takes which task each morning so that you work efficiently.\"Question: What is the main issue with this approach?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Scrum Master should coach self-management, not assign work."
+      },
+      {
+        "key": "B",
+        "text": "Task assignment is the Product Owner's job, not the Scrum Master's."
+      },
+      {
+        "key": "C",
+        "text": "The Scrum Master should assign tasks only during Sprint Planning."
+      },
+      {
+        "key": "D",
+        "text": "This is acceptable while the Developers are new to Scrum."
+      },
+      {
+        "key": "E",
+        "text": "Task assignment should be done by the most senior Developer."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q41",
+    "variant": 1,
+    "number": 41,
+    "text": "Scenario: A team in Almaty proposes six-week Sprints because its features are large.Question: What does Scrum say about this proposal?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Six weeks is allowed if stakeholders agree."
+      },
+      {
+        "key": "B",
+        "text": "The Product Owner picks a new length each Sprint."
+      },
+      {
+        "key": "C",
+        "text": "Sprints must be exactly two weeks long."
+      },
+      {
+        "key": "D",
+        "text": "Sprint length may vary with feature size."
+      },
+      {
+        "key": "E",
+        "text": "Sprints must be fixed at one month or less."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q42",
+    "variant": 1,
+    "number": 42,
+    "text": "Scenario: The Daily Scrum at a telecom company regularly takes 45 minutes and consists of status reports to the department head.Question: Which change best aligns it with Scrum?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Keep 45 minutes but limit it to three questions."
+      },
+      {
+        "key": "B",
+        "text": "Cut it to 30 minutes and email status to managers."
+      },
+      {
+        "key": "C",
+        "text": "Keep it to 15 minutes, focused on the Sprint Goal."
+      },
+      {
+        "key": "D",
+        "text": "Move it to once a week to save working time."
+      },
+      {
+        "key": "E",
+        "text": "Let the department head chair it for discipline."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q43",
+    "variant": 1,
+    "number": 43,
+    "text": "Scenario: At the end of a Sprint, the team and stakeholders from the Ministry of Health try the new features, discuss upcoming regulatory changes and agree to reorder the Product Backlog.Question: Which Scrum event is taking place?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Backlog refinement."
+      },
+      {
+        "key": "B",
+        "text": "Sprint Retrospective."
+      },
+      {
+        "key": "C",
+        "text": "Sprint Planning."
+      },
+      {
+        "key": "D",
+        "text": "Sprint Review."
+      },
+      {
+        "key": "E",
+        "text": "Daily Scrum."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q44",
+    "variant": 1,
+    "number": 44,
+    "text": "Scenario: A team building an e-government portal for registering small businesses has no direct contact with entrepreneurs. The analyst describes 'Aigerim, 34, owner of a bakery in Shymkent', with her goals, skill level and a typical working day.Question: What is the main purpose of creating this description?",
+    "options": [
+      {
+        "key": "A",
+        "text": "To define the acceptance tests for the registration form."
+      },
+      {
+        "key": "B",
+        "text": "To record the legal rules the registration portal must comply with."
+      },
+      {
+        "key": "C",
+        "text": "To empathize with users and align the portal with their needs."
+      },
+      {
+        "key": "D",
+        "text": "To estimate the development effort for each portal feature."
+      },
+      {
+        "key": "E",
+        "text": "To replace later usability testing with real entrepreneurs."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q45",
+    "variant": 1,
+    "number": 45,
+    "text": "Scenario: An analyst prepared one-page persona summaries for a clinic appointment app. After a month of interviews with patients, the team wants a richer picture of each persona.Question: What is the most appropriate next step?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Keep the short versions, since long ones suit only waterfall projects."
+      },
+      {
+        "key": "B",
+        "text": "Average the interview data into one generic persona."
+      },
+      {
+        "key": "C",
+        "text": "Convert each persona directly into an acceptance test."
+      },
+      {
+        "key": "D",
+        "text": "Replace the personas with a plain list of system actors."
+      },
+      {
+        "key": "E",
+        "text": "Expand the personas into the long template using the new research."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v1-q46",
+    "variant": 1,
+    "number": 46,
+    "text": "Scenario: To save time, a team designing a city bus app creates one persona that combines traits common to students, pensioners, tourists and commuters.Question: What risk does this create?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A generic persona that tries to suit everyone at once."
+      },
+      {
+        "key": "B",
+        "text": "A delay because long templates take months to complete."
+      },
+      {
+        "key": "C",
+        "text": "Requirements that reflect only one department's opinion."
+      },
+      {
+        "key": "D",
+        "text": "A persona too narrow to write any user stories from."
+      },
+      {
+        "key": "E",
+        "text": "Too many personas that quickly inflate the product backlog."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v1-q47",
+    "variant": 1,
+    "number": 47,
+    "text": "Scenario: A backlog item for a tax portal reads: 'As a taxpayer, I need to download my income certificate.'Question: Which component of the common user story format is missing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The effort estimate for the story."
+      },
+      {
+        "key": "B",
+        "text": "The user role or persona (WHO)."
+      },
+      {
+        "key": "C",
+        "text": "The action or feature needed (WHAT)."
+      },
+      {
+        "key": "D",
+        "text": "The benefit or value to the user (WHY)."
+      },
+      {
+        "key": "E",
+        "text": "The acceptance criteria that confirm the story."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v1-q48",
+    "variant": 1,
+    "number": 48,
+    "text": "Scenario: For the story 'As a borrower, I need to see my monthly loan payment so that I can plan my budget', the product owner adds: shows the amount in tenge; updates after each payment; visible on the home screen.Question: What role do these added statements play?",
+    "options": [
+      {
+        "key": "A",
+        "text": "They fix the order of stories in the next release."
+      },
+      {
+        "key": "B",
+        "text": "They define the story's boundaries for verification."
+      },
+      {
+        "key": "C",
+        "text": "They describe the borrower persona's motivations and traits."
+      },
+      {
+        "key": "D",
+        "text": "They replace the conversation between team and users."
+      },
+      {
+        "key": "E",
+        "text": "They give the team's effort estimate for the story."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v1-q49",
+    "variant": 1,
+    "number": 49,
+    "text": "Scenario: A ministry replaced 200-page specifications with user stories and now releases a small piece of its licensing service every two weeks.Question: What is the main benefit of this change?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Stories remove the need to refine the backlog."
+      },
+      {
+        "key": "B",
+        "text": "Stories make long-term estimates exact."
+      },
+      {
+        "key": "C",
+        "text": "Small testable slices give fast delivery and feedback."
+      },
+      {
+        "key": "D",
+        "text": "Stories let the team skip stakeholder talks."
+      },
+      {
+        "key": "E",
+        "text": "Stories hold complete specs, so fewer questions arise."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v1-q50",
+    "variant": 1,
+    "number": 50,
+    "text": "Scenario: The backlog of an e-government portal has grown to 900 user stories, many of them outdated or duplicated, and planning meetings take hours.Question: Which action best addresses this limitation of user stories?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Add more developers to finish all 900 stories."
+      },
+      {
+        "key": "B",
+        "text": "Stop writing acceptance criteria to save time."
+      },
+      {
+        "key": "C",
+        "text": "Refine and reprioritize the backlog regularly."
+      },
+      {
+        "key": "D",
+        "text": "Convert every story into a detailed specification."
+      },
+      {
+        "key": "E",
+        "text": "Freeze the backlog until the end of the project."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q11",
+    "variant": 2,
+    "number": 11,
+    "text": "According to the Scrum Guide, which elements together make up the Sprint Backlog?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The selected items, the team's capacity and a burn-down chart."
+      },
+      {
+        "key": "B",
+        "text": "The Product Goal, the Sprint Goal and the release schedule."
+      },
+      {
+        "key": "C",
+        "text": "The Sprint Goal, the whole Product Backlog and the last Increment."
+      },
+      {
+        "key": "D",
+        "text": "The Product Goal, the selected items and the Definition of Done."
+      },
+      {
+        "key": "E",
+        "text": "The Sprint Goal, the selected items and the plan to deliver them."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q12",
+    "variant": 2,
+    "number": 12,
+    "text": "What must a Scrum Team do when its organization has a standard Definition of Done?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Replace it with its own definition."
+      },
+      {
+        "key": "B",
+        "text": "Follow it as a minimum."
+      },
+      {
+        "key": "C",
+        "text": "Ask the Product Owner to approve a lower version."
+      },
+      {
+        "key": "D",
+        "text": "Use it only when several teams share a product."
+      },
+      {
+        "key": "E",
+        "text": "Follow it only for items that are released."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q13",
+    "variant": 2,
+    "number": 13,
+    "text": "What does the short persona template offer compared with the long template?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A set of acceptance criteria for each story."
+      },
+      {
+        "key": "B",
+        "text": "An in-depth story of the user's typical day."
+      },
+      {
+        "key": "C",
+        "text": "A full list of the user's wants and wishes."
+      },
+      {
+        "key": "D",
+        "text": "A ranked list of features for the release."
+      },
+      {
+        "key": "E",
+        "text": "A one-page quick view of key information."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q14",
+    "variant": 2,
+    "number": 14,
+    "text": "Which INVEST criterion is met when a story explains why the customer will benefit from it?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Testable."
+      },
+      {
+        "key": "B",
+        "text": "Valuable."
+      },
+      {
+        "key": "C",
+        "text": "Independent."
+      },
+      {
+        "key": "D",
+        "text": "Estimable."
+      },
+      {
+        "key": "E",
+        "text": "Negotiable."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q15",
+    "variant": 2,
+    "number": 15,
+    "text": "What does the Card in the 3Cs mainly contain?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The effort estimate and the deadline."
+      },
+      {
+        "key": "B",
+        "text": "Notes from every team discussion."
+      },
+      {
+        "key": "C",
+        "text": "A brief story and an optional title."
+      },
+      {
+        "key": "D",
+        "text": "The acceptance tests for the feature."
+      },
+      {
+        "key": "E",
+        "text": "The full specification of the feature."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q16",
+    "variant": 2,
+    "number": 16,
+    "text": "Scenario: [Начало сценария обрезано на фото.] compared with the baseline only once, at project completion.Question: What is the most appropriate improvement to the control system?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Prepare a more detailed work breakdown structure."
+      },
+      {
+        "key": "B",
+        "text": "Compare actuals with plan frequently."
+      },
+      {
+        "key": "C",
+        "text": "Re-estimate the original budget with a new method."
+      },
+      {
+        "key": "D",
+        "text": "Communicate the project scope to the team again."
+      },
+      {
+        "key": "E",
+        "text": "Ask the vendor to record costs more often."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q17",
+    "variant": 2,
+    "number": 17,
+    "text": "Scenario: A new PMO head in Almaty claims that once the project plan is approved, planning has no further connection to how costs are authorized, collected, analyzed and reported.Question: Which statement best corrects this view?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Planning is repeated only when the customer requests it."
+      },
+      {
+        "key": "B",
+        "text": "Cost control is a complete system independent of planning."
+      },
+      {
+        "key": "C",
+        "text": "Planning is the last phase and follows customer reporting."
+      },
+      {
+        "key": "D",
+        "text": "The operating cycle fully replaces planning after approval."
+      },
+      {
+        "key": "E",
+        "text": "Planning and operations form one closed system."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q18",
+    "variant": 2,
+    "number": 18,
+    "text": "Scenario: A software team measures in hours: BCWS = 1,200, BCWP = 1,000, ACWP = 1,100.Question: Which statement about the variances is correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "CV = -100 and SV = +200."
+      },
+      {
+        "key": "B",
+        "text": "CV = +200 and SV = +100."
+      },
+      {
+        "key": "C",
+        "text": "CV = -100 and SV = -200."
+      },
+      {
+        "key": "D",
+        "text": "CV = +100 and SV = -200."
+      },
+      {
+        "key": "E",
+        "text": "CV = -200 and SV = -100."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q19",
+    "variant": 2,
+    "number": 19,
+    "text": "Scenario: A telecom project in Karaganda reports BCWS = 750, BCWP = 600 and ACWP = 500.Question: Which pair of indices is correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "CPI = 1.2 and SPI = 1.25."
+      },
+      {
+        "key": "B",
+        "text": "CPI = 0.8 and SPI = 1.2."
+      },
+      {
+        "key": "C",
+        "text": "CPI = 0.8 and SPI = 1.25."
+      },
+      {
+        "key": "D",
+        "text": "CPI = 1.25 and SPI = 0.8."
+      },
+      {
+        "key": "E",
+        "text": "CPI = 1.2 and SPI = 0.8."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q20",
+    "variant": 2,
+    "number": 20,
+    "text": "Scenario: A bank's CRM project has BAC = 800, BCWP = 400 and ACWP = 500 (thousand dollars).Question: If current cost efficiency continues, what is the variance at completion?",
+    "options": [
+      {
+        "key": "A",
+        "text": "+100."
+      },
+      {
+        "key": "B",
+        "text": "-200."
+      },
+      {
+        "key": "C",
+        "text": "-250."
+      },
+      {
+        "key": "D",
+        "text": "+200."
+      },
+      {
+        "key": "E",
+        "text": "-100."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q21",
+    "variant": 2,
+    "number": 21,
+    "text": "Scenario: A task force with an eight-week deadline spent the first four weeks discussing options with little progress. At the midpoint, realizing time was running out, it changed course and worked intensively to finish.Question: Which model best explains this pattern?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The groupthink model."
+      },
+      {
+        "key": "B",
+        "text": "The closed-system cost model."
+      },
+      {
+        "key": "C",
+        "text": "The punctuated equilibrium model."
+      },
+      {
+        "key": "D",
+        "text": "The storming stage of development."
+      },
+      {
+        "key": "E",
+        "text": "The five-stage maturity model."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q22",
+    "variant": 2,
+    "number": 22,
+    "text": "Scenario: A director notices that several team leaders face simultaneous demands where meeting one demand rules out the others, and she wants to know why management should care.Question: What is the main organizational consequence of such role conflict?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Faster movement to the performing stage."
+      },
+      {
+        "key": "B",
+        "text": "A shift from formal to informal groups."
+      },
+      {
+        "key": "C",
+        "text": "Slower movement from forming to storming."
+      },
+      {
+        "key": "D",
+        "text": "Higher overhead rates in every department."
+      },
+      {
+        "key": "E",
+        "text": "Ineffective performance by people and groups."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q23",
+    "variant": 2,
+    "number": 23,
+    "text": "Scenario: Staff at a telecom company in Astana are highly committed to project work, yet how well specifications are met varies greatly between projects. The CEO asks a consultant to design \"the one ideal structure that will suit us forever\".Question: Which response reflects the soundest organizational thinking?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Review it, accepting no structure is ideal."
+      },
+      {
+        "key": "B",
+        "text": "Adopt a pure functional structure, ideal for all firms."
+      },
+      {
+        "key": "C",
+        "text": "Keep the current structure, since commitment is high."
+      },
+      {
+        "key": "D",
+        "text": "Loosen the specifications so the variation disappears."
+      },
+      {
+        "key": "E",
+        "text": "Adopt a matrix, since it is ideal for every company."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q24",
+    "variant": 2,
+    "number": 24,
+    "text": "Scenario: A new PMO director at a ministry wants project and functional managers to anticipate problems jointly from next week, although they currently deny that problems exist.Question: What is the most realistic expectation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A policy memo lets managers skip straight to anticipation."
+      },
+      {
+        "key": "B",
+        "text": "Denial is actually the final, most mature stage of trust."
+      },
+      {
+        "key": "C",
+        "text": "Anticipation normally comes before admitting responsibility."
+      },
+      {
+        "key": "D",
+        "text": "Several intermediate stages of trust must come first."
+      },
+      {
+        "key": "E",
+        "text": "Trust develops only when the PM has full line authority."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v2-q25",
+    "variant": 2,
+    "number": 25,
+    "text": "Scenario: A manufacturer in Karaganda produces standard products in large volumes within established specifications and runs very few one-off projects.Question: Why is the traditional structure a reasonable fit here?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It speeds up decisions that cross departments."
+      },
+      {
+        "key": "B",
+        "text": "It suits mass production within set specifications."
+      },
+      {
+        "key": "C",
+        "text": "It gives each project manager full line authority."
+      },
+      {
+        "key": "D",
+        "text": "It lets staff be dedicated to a single project."
+      },
+      {
+        "key": "E",
+        "text": "It provides a strong focal point for each customer."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q26",
+    "variant": 2,
+    "number": 26,
+    "text": "Scenario: A ministry asks why its functional structure produces \"committee solutions\" for projects and why nobody can be pinpointed when a project fails.Question: What is the best explanation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Specialists are grouped by discipline to share work."
+      },
+      {
+        "key": "B",
+        "text": "Vertical communication channels are too weak."
+      },
+      {
+        "key": "C",
+        "text": "The project manager holds too much line authority."
+      },
+      {
+        "key": "D",
+        "text": "No one holds formal authority over the total project."
+      },
+      {
+        "key": "E",
+        "text": "Each employee reports to more than one functional manager."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v2-q27",
+    "variant": 2,
+    "number": 27,
+    "text": "Scenario: A company finds that project coordinators placed inside functional departments keep putting functional work ahead of their projects.Question: Which principle should guide the next step in organizing project work?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Give project control to people loyal to the project."
+      },
+      {
+        "key": "B",
+        "text": "Keep project leaders within each functional department."
+      },
+      {
+        "key": "C",
+        "text": "Rely only on better rules and planning procedures."
+      },
+      {
+        "key": "D",
+        "text": "Let liaison staff coordinate within one division."
+      },
+      {
+        "key": "E",
+        "text": "Let functional managers run project merit reviews."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q28",
+    "variant": 2,
+    "number": 28,
+    "text": "Scenario: [Начало сценария обрезано на фото.] company is considering a projectized structure for one of its subsidiaries.Question: Under which condition does such a structure give stable work and minimal conflict?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Rare and very short projects."
+      },
+      {
+        "key": "B",
+        "text": "Wide sharing of specialists."
+      },
+      {
+        "key": "C",
+        "text": "Cost minimization as top priority."
+      },
+      {
+        "key": "D",
+        "text": "Priorities set by functional heads."
+      },
+      {
+        "key": "E",
+        "text": "A continuous flow of projects."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q29",
+    "variant": 2,
+    "number": 29,
+    "text": "Scenario: A consultant compares several companies in Kazakhstan that are considering a matrix structure.Question: For which company would a matrix be most practical?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A firm with little need for specialist skills."
+      },
+      {
+        "key": "B",
+        "text": "A firm in a rapidly changing market."
+      },
+      {
+        "key": "C",
+        "text": "A firm mass-producing one stable product."
+      },
+      {
+        "key": "D",
+        "text": "A firm with one long project at a time."
+      },
+      {
+        "key": "E",
+        "text": "A firm with stable, predictable demand."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q30",
+    "variant": 2,
+    "number": 30,
+    "text": "Scenario: A bank in Almaty planned its new mobile app the way it plans branch construction, fixing every step in advance. Three months later, many requirements had changed and the plan was obsolete.Question: What is the most likely root cause of the problem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A defined process was used for uncertain work."
+      },
+      {
+        "key": "B",
+        "text": "The developers lacked a detailed enough upfront plan."
+      },
+      {
+        "key": "C",
+        "text": "The team used too many short iterations and increments."
+      },
+      {
+        "key": "D",
+        "text": "The sponsor approved the project budget too early."
+      },
+      {
+        "key": "E",
+        "text": "The bank should have hired more construction experts."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q31",
+    "variant": 2,
+    "number": 31,
+    "text": "Scenario: An analyst at a fintech company in Astana first studied and internalized agile principles, then began applying agile practices in her own work.Question: What is the next step in her path to organizational change?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Practice agile techniques herself."
+      },
+      {
+        "key": "B",
+        "text": "Fix scope and let cost and time vary."
+      },
+      {
+        "key": "C",
+        "text": "Learn agile principles individually."
+      },
+      {
+        "key": "D",
+        "text": "Encourage others to become agile."
+      },
+      {
+        "key": "E",
+        "text": "Write a defined process for all teams."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v2-q32",
+    "variant": 2,
+    "number": 32,
+    "text": "Scenario: A team split between Astana and Shymkent relies on long email threads to clarify requirements, and misunderstandings keep causing rework.Question: Which agile principle points to the best improvement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Working software measures progress best."
+      },
+      {
+        "key": "B",
+        "text": "Simplicity is essential to every project."
+      },
+      {
+        "key": "C",
+        "text": "Technical excellence enhances agility."
+      },
+      {
+        "key": "D",
+        "text": "Face-to-face talk conveys information best."
+      },
+      {
+        "key": "E",
+        "text": "Late requirement changes should be welcome."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v2-q33",
+    "variant": 2,
+    "number": 33,
+    "text": "Scenario: An XP team merges everyone's code only once a month and then spends several days fixing code that no longer compiles or works together.Question: Which XP practice would best address this problem?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Continuous integration."
+      },
+      {
+        "key": "B",
+        "text": "Sustainable pace."
+      },
+      {
+        "key": "C",
+        "text": "Metaphor."
+      },
+      {
+        "key": "D",
+        "text": "Planning games."
+      },
+      {
+        "key": "E",
+        "text": "Collective code ownership."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q34",
+    "variant": 2,
+    "number": 34,
+    "text": "Scenario: Analysts in Astana hand designs to developers in Almaty, who hand code to testers in Shymkent. Each handoff takes extra effort to explain and transfer.Question: Which Lean waste is most evident?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Motion."
+      },
+      {
+        "key": "B",
+        "text": "Extra features."
+      },
+      {
+        "key": "C",
+        "text": "Task switching."
+      },
+      {
+        "key": "D",
+        "text": "Extra processes."
+      },
+      {
+        "key": "E",
+        "text": "Defects."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q35",
+    "variant": 2,
+    "number": 35,
+    "text": "Scenario: Early in a project, a team runs weekly sessions where citizens try prototypes of a new portal and give feedback that the team uses immediately.Question: Which Lean core concept is the team mainly applying?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Empower the team."
+      },
+      {
+        "key": "B",
+        "text": "Defer decisions."
+      },
+      {
+        "key": "C",
+        "text": "Amplify learning."
+      },
+      {
+        "key": "D",
+        "text": "Optimize the whole."
+      },
+      {
+        "key": "E",
+        "text": "Build quality in."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q36",
+    "variant": 2,
+    "number": 36,
+    "text": "Scenario: [Начало строки обрезано на фото.] team members at a bank hide failed prototypes from their leader because past mistakes were openly criticized. As a result, few new ideas are tried.Question: Which leadership task should the leader focus on first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Re-communicating the project vision often."
+      },
+      {
+        "key": "B",
+        "text": "Providing more licences and equipment."
+      },
+      {
+        "key": "C",
+        "text": "Adding approval steps for new prototypes."
+      },
+      {
+        "key": "D",
+        "text": "Making experimentation safe."
+      },
+      {
+        "key": "E",
+        "text": "Shielding the team from outside interruptions."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v2-q37",
+    "variant": 2,
+    "number": 37,
+    "text": "Scenario: A ministry IT department removes several approval documents that nobody reads and keeps only the activities that directly help deliver the product.Question: Which idea underlying Scrum does this change reflect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lean thinking."
+      },
+      {
+        "key": "B",
+        "text": "Empiricism."
+      },
+      {
+        "key": "C",
+        "text": "Transparency."
+      },
+      {
+        "key": "D",
+        "text": "Cross-functionality."
+      },
+      {
+        "key": "E",
+        "text": "Self-management."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q38",
+    "variant": 2,
+    "number": 38,
+    "text": "Scenario: A state agency staffs a team in which all UX design and database work must be requested from other departments, causing week-long waits every Sprint.Question: Which Scrum Team characteristic is missing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A single Product Owner."
+      },
+      {
+        "key": "B",
+        "text": "Self-management."
+      },
+      {
+        "key": "C",
+        "text": "Cross-functionality."
+      },
+      {
+        "key": "D",
+        "text": "Small team size."
+      },
+      {
+        "key": "E",
+        "text": "Openness."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q39",
+    "variant": 2,
+    "number": 39,
+    "text": "Scenario: In a state company, department heads regularly overrule the Product Owner's ordering of the Product Backlog, and the Developers receive conflicting priorities.Question: What does Scrum say is needed for the Product Owner to succeed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Department heads should jointly own the Product Backlog with the Product Owner."
+      },
+      {
+        "key": "B",
+        "text": "The entire organization must respect the Product Owner's decisions."
+      },
+      {
+        "key": "C",
+        "text": "Priorities should be fixed at the start and not changed."
+      },
+      {
+        "key": "D",
+        "text": "The Scrum Master should approve every change to item order."
+      },
+      {
+        "key": "E",
+        "text": "Developers should order the items they find most urgent."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q40",
+    "variant": 2,
+    "number": 40,
+    "text": "Scenario: A newly appointed Scrum Master in an akimat IT department approves vacations, sets individual KPIs for each Developer and reports their personal performance to management.Question: Which description of the Scrum Master shows that this behavior is wrong?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The team member who decides how work is done."
+      },
+      {
+        "key": "B",
+        "text": "A true leader who serves the Scrum Team."
+      },
+      {
+        "key": "C",
+        "text": "The person who orders the Product Backlog."
+      },
+      {
+        "key": "D",
+        "text": "The line manager accountable for each Developer."
+      },
+      {
+        "key": "E",
+        "text": "A coordinator who reports progress to management."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q41",
+    "variant": 2,
+    "number": 41,
+    "text": "Scenario: Mid-Sprint, the Developers of a university admissions portal realize one selected item is much larger than expected, although the Sprint Goal is still achievable with less scope.Question: What does Scrum allow them to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Clarify and renegotiate scope with the Product Owner."
+      },
+      {
+        "key": "B",
+        "text": "Change the Sprint Goal without involving anyone else."
+      },
+      {
+        "key": "C",
+        "text": "Cancel the Sprint, since the forecast was wrong."
+      },
+      {
+        "key": "D",
+        "text": "Ask the Scrum Master to extend the Sprint end date."
+      },
+      {
+        "key": "E",
+        "text": "Lower the quality bar so all items can be finished."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v2-q42",
+    "variant": 2,
+    "number": 42,
+    "text": "Scenario: The Daily Scrum of a regional akimat team is held at different times and places each day, and participants mostly report how many hours they worked.Question: What is the main purpose of the event that they are missing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Re-order the Product Backlog with the Product Owner."
+      },
+      {
+        "key": "B",
+        "text": "Report hours worked to the Scrum Master for tracking."
+      },
+      {
+        "key": "C",
+        "text": "Demonstrate finished work to stakeholders for feedback."
+      },
+      {
+        "key": "D",
+        "text": "Review the team's processes and Definition of Done."
+      },
+      {
+        "key": "E",
+        "text": "Inspect Sprint Goal progress and adapt the plan."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q43",
+    "variant": 2,
+    "number": 43,
+    "text": "Scenario: In a Sprint Retrospective, a team at a mobile operator finds that failed deployments were caused by manual steps and decides to automate them.Question: What can the team do with this improvement?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Wait for the Product Owner at the next Review."
+      },
+      {
+        "key": "B",
+        "text": "Implement it in the current Sprint after the Retrospective."
+      },
+      {
+        "key": "C",
+        "text": "Ask stakeholders to approve it at the next Review."
+      },
+      {
+        "key": "D",
+        "text": "Record it only; changes are allowed after the release."
+      },
+      {
+        "key": "E",
+        "text": "Add it to the Sprint Backlog for the next Sprint."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q44",
+    "variant": 2,
+    "number": 44,
+    "text": "Scenario: A product owner of a city parking app says: 'Personas are just a nicer name for user roles such as Admin or Driver.'Question: Which statement best corrects this view?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Personas are job titles used to assign system access rights."
+      },
+      {
+        "key": "B",
+        "text": "Personas are real customers who are quoted by name in specs."
+      },
+      {
+        "key": "C",
+        "text": "Personas are groups of features ranked by development cost."
+      },
+      {
+        "key": "D",
+        "text": "Personas are fictional archetypes of typical users."
+      },
+      {
+        "key": "E",
+        "text": "Personas are team roles defined within the Scrum framework."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v2-q45",
+    "variant": 2,
+    "number": 45,
+    "text": "Scenario: A startup in Astana needs a quick view of its key users for a planning meeting tomorrow morning, and there is no time for further research.Question: Which persona format best fits this need?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A context diagram showing all external systems."
+      },
+      {
+        "key": "B",
+        "text": "A full demographic report from the statistics agency."
+      },
+      {
+        "key": "C",
+        "text": "A one-page short template with key facts."
+      },
+      {
+        "key": "D",
+        "text": "A long template with an in-depth day-in-the-life story."
+      },
+      {
+        "key": "E",
+        "text": "A detailed use case model listing all actors."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q46",
+    "variant": 2,
+    "number": 46,
+    "text": "Scenario: An analyst writes a single persona called 'Average citizen' who is any age, lives in any region, speaks all languages and is equally at ease with mobile and desktop.Question: What is the main weakness of this persona?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is too short to count as a persona at all."
+      },
+      {
+        "key": "B",
+        "text": "It has too many differentiators to be ranked properly."
+      },
+      {
+        "key": "C",
+        "text": "It is too generic to be distinct or realistic."
+      },
+      {
+        "key": "D",
+        "text": "It was written before the product roadmap existed."
+      },
+      {
+        "key": "E",
+        "text": "It focuses on wants instead of on motivations."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q47",
+    "variant": 2,
+    "number": 47,
+    "text": "Scenario: An analyst wants to rewrite the story 'As a citizen, I need to book a slot at a public service center so that I do not wait in a queue' in the alternative format.Question: Which version is the correct equivalent?",
+    "options": [
+      {
+        "key": "A",
+        "text": "'In order to book a slot, as a citizen, I need to avoid a queue.'"
+      },
+      {
+        "key": "B",
+        "text": "'In order to avoid a queue, as a citizen, I need to book a slot.'"
+      },
+      {
+        "key": "C",
+        "text": "'Given a free slot, when a citizen books it, the queue is avoided.'"
+      },
+      {
+        "key": "D",
+        "text": "'Citizen books a slot, system confirms, queue time goes down.'"
+      },
+      {
+        "key": "E",
+        "text": "'As a service center, I need slots booked so that queues shrink.'"
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v2-q48",
+    "variant": 2,
+    "number": 48,
+    "text": "Scenario: An akimat's appointment-booking story was accepted, but citizens later found they could book visits on public holidays. Nobody had stated what the feature should and should not allow.Question: What was most likely missing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A product roadmap for the next year."
+      },
+      {
+        "key": "B",
+        "text": "A more detailed title on the story card."
+      },
+      {
+        "key": "C",
+        "text": "A larger team to deliver the story."
+      },
+      {
+        "key": "D",
+        "text": "A longer persona template for citizens."
+      },
+      {
+        "key": "E",
+        "text": "Clear acceptance criteria for the story."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v2-q49",
+    "variant": 2,
+    "number": 49,
+    "text": "Scenario: After several joint story-writing sessions, developers and the operations staff of a bank understand each other's work much better and feel more committed to the product.Question: Which strength of user stories does this illustrate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Stories guarantee that all estimates will be accurate."
+      },
+      {
+        "key": "B",
+        "text": "Stories cut the number of team meetings down to zero."
+      },
+      {
+        "key": "C",
+        "text": "Joint work on stories builds shared understanding."
+      },
+      {
+        "key": "D",
+        "text": "Stories allow the team to skip backlog refinement."
+      },
+      {
+        "key": "E",
+        "text": "Stories move responsibility for value to the developers."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v2-q50",
+    "variant": 2,
+    "number": 50,
+    "text": "Scenario: Decomposing the epic 'Online onboarding for new bank clients' produced 40 child stories, some outdated and a few contradicting each other.Question: What should the analyst do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ask developers to choose which stories to implement."
+      },
+      {
+        "key": "B",
+        "text": "Merge all child stories back into a single large epic."
+      },
+      {
+        "key": "C",
+        "text": "Turn the child stories into personas for each group."
+      },
+      {
+        "key": "D",
+        "text": "Organize the child stories to keep them current."
+      },
+      {
+        "key": "E",
+        "text": "Stop decomposition and deliver the epic in one iteration."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q1",
+    "variant": 3,
+    "number": 1,
+    "text": "Which list shows what the budget log includes?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Distributed, reserve, undistributed and contract changes."
+      },
+      {
+        "key": "B",
+        "text": "Direct labor, overhead, materials and profit margin."
+      },
+      {
+        "key": "C",
+        "text": "Planned cost, earned value, actual cost and variances."
+      },
+      {
+        "key": "D",
+        "text": "Undistributed and unallocated budgets, and nothing else."
+      },
+      {
+        "key": "E",
+        "text": "Distributed budget, cost and schedule indices, and EAC values."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q2",
+    "variant": 3,
+    "number": 2,
+    "text": "Earned value management integrates cost and schedule with which two other areas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Procurement and quality assurance."
+      },
+      {
+        "key": "B",
+        "text": "Human resources and communications."
+      },
+      {
+        "key": "C",
+        "text": "Technical performance and risk."
+      },
+      {
+        "key": "D",
+        "text": "Group dynamics and team building."
+      },
+      {
+        "key": "E",
+        "text": "Stakeholders and contract changes."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q3",
+    "variant": 3,
+    "number": 3,
+    "text": "Which two types of formal groups arise from the demands and processes of the organization?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cross-functional and self-directed teams."
+      },
+      {
+        "key": "B",
+        "text": "Friendship and task groups."
+      },
+      {
+        "key": "C",
+        "text": "Command and task groups."
+      },
+      {
+        "key": "D",
+        "text": "Formal and informal groups."
+      },
+      {
+        "key": "E",
+        "text": "Interest and friendship groups."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q4",
+    "variant": 3,
+    "number": 4,
+    "text": "Accountability is equal to which combination?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Authority plus line control."
+      },
+      {
+        "key": "B",
+        "text": "Authority plus responsibility."
+      },
+      {
+        "key": "C",
+        "text": "Authority plus trust."
+      },
+      {
+        "key": "D",
+        "text": "Responsibility plus technical control."
+      },
+      {
+        "key": "E",
+        "text": "Responsibility plus trust."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q5",
+    "variant": 3,
+    "number": 5,
+    "text": "If line managers have more influence over workers than the project manager, what is the matrix called?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A line-staff structure."
+      },
+      {
+        "key": "B",
+        "text": "A task force arrangement."
+      },
+      {
+        "key": "C",
+        "text": "A weak matrix."
+      },
+      {
+        "key": "D",
+        "text": "A projectized structure."
+      },
+      {
+        "key": "E",
+        "text": "A strong matrix."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q6",
+    "variant": 3,
+    "number": 6,
+    "text": "In a matrix, who keeps the responsibility for technical excellence on the project?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The project coordinators."
+      },
+      {
+        "key": "B",
+        "text": "The general manager."
+      },
+      {
+        "key": "C",
+        "text": "The project manager."
+      },
+      {
+        "key": "D",
+        "text": "The director of project management."
+      },
+      {
+        "key": "E",
+        "text": "The functional departments."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q7",
+    "variant": 3,
+    "number": 7,
+    "text": "What does the Agile Manifesto say about the items on the right side of its four values?",
+    "options": [
+      {
+        "key": "A",
+        "text": "They have no value and should be removed from projects."
+      },
+      {
+        "key": "B",
+        "text": "They matter only in large government projects."
+      },
+      {
+        "key": "C",
+        "text": "They are valued equally with the items on the left."
+      },
+      {
+        "key": "D",
+        "text": "They have value, but the left items are valued more."
+      },
+      {
+        "key": "E",
+        "text": "They are valued more than the items on the left."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q8",
+    "variant": 3,
+    "number": 8,
+    "text": "Which Kanban principle restricts how many items the team handles at once, making bottlenecks easier to see?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Limit WIP."
+      },
+      {
+        "key": "B",
+        "text": "Improve collaboratively."
+      },
+      {
+        "key": "C",
+        "text": "Manage flow."
+      },
+      {
+        "key": "D",
+        "text": "Make process policies explicit."
+      },
+      {
+        "key": "E",
+        "text": "Visualize the workflow."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q9",
+    "variant": 3,
+    "number": 9,
+    "text": "Which method is centered on eight principles such as \"focus on the business need\" and \"never compromise quality\"?",
+    "options": [
+      {
+        "key": "A",
+        "text": "DSDM."
+      },
+      {
+        "key": "B",
+        "text": "Crystal."
+      },
+      {
+        "key": "C",
+        "text": "FDD."
+      },
+      {
+        "key": "D",
+        "text": "XP."
+      },
+      {
+        "key": "E",
+        "text": "Kanban."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q10",
+    "variant": 3,
+    "number": 10,
+    "text": "Which Scrum value means keeping primary attention on the work of the Sprint to make the best progress toward its goals?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Commitment."
+      },
+      {
+        "key": "B",
+        "text": "Courage."
+      },
+      {
+        "key": "C",
+        "text": "Transparency."
+      },
+      {
+        "key": "D",
+        "text": "Respect."
+      },
+      {
+        "key": "E",
+        "text": "Focus."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q11",
+    "variant": 3,
+    "number": 11,
+    "text": "Who decides how the selected Product Backlog items will be turned into an Increment?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Scrum Master."
+      },
+      {
+        "key": "B",
+        "text": "The Product Owner."
+      },
+      {
+        "key": "C",
+        "text": "The key stakeholders."
+      },
+      {
+        "key": "D",
+        "text": "The whole Scrum Team."
+      },
+      {
+        "key": "E",
+        "text": "The Developers."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q12",
+    "variant": 3,
+    "number": 12,
+    "text": "What happens to a Product Backlog item that does not meet the Definition of Done at the end of the Spr[конец строки обрезан на фото]",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is shown at the Sprint Review as partly done."
+      },
+      {
+        "key": "B",
+        "text": "It returns to the Product Backlog."
+      },
+      {
+        "key": "C",
+        "text": "It is released with a note about the missing work."
+      },
+      {
+        "key": "D",
+        "text": "It stays in the Increment until it is fixed."
+      },
+      {
+        "key": "E",
+        "text": "It is released once the Product Owner approves it."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q13",
+    "variant": 3,
+    "number": 13,
+    "text": "How do the needs of a persona differ from its wants?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Needs are infinite, while wants are finite."
+      },
+      {
+        "key": "B",
+        "text": "Needs are optional, while wants are required."
+      },
+      {
+        "key": "C",
+        "text": "Needs come from developers, wants from users."
+      },
+      {
+        "key": "D",
+        "text": "Needs are finite, while wants are infinite."
+      },
+      {
+        "key": "E",
+        "text": "Needs change daily, while wants stay fixed."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q14",
+    "variant": 3,
+    "number": 14,
+    "text": "According to INVEST, what does Sized appropriately mean for a user story?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It can be delivered without other features."
+      },
+      {
+        "key": "B",
+        "text": "It states the value it brings to the customer."
+      },
+      {
+        "key": "C",
+        "text": "A stakeholder can validate it objectively."
+      },
+      {
+        "key": "D",
+        "text": "The team can complete it in one iteration."
+      },
+      {
+        "key": "E",
+        "text": "The team can estimate it from past experience."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q15",
+    "variant": 3,
+    "number": 15,
+    "text": "Which of the 3Cs reflects that a user story intentionally leaves out details so the team will discuss[конец строки обрезан на фото]",
+    "options": [
+      {
+        "key": "A",
+        "text": "Commitment."
+      },
+      {
+        "key": "B",
+        "text": "Conversation."
+      },
+      {
+        "key": "C",
+        "text": "Card."
+      },
+      {
+        "key": "D",
+        "text": "Confirmation."
+      },
+      {
+        "key": "E",
+        "text": "Collaboration."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q16",
+    "variant": 3,
+    "number": 16,
+    "text": "Scenario: A bank in Almaty outsourced its mobile app. The vendor built several features the b[обрезано на фото] needed and skipped two it considered essential, because each side understood the task list differen[обрезано на фото]Question: Which control requirement failed most directly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Clear communication of task scope."
+      },
+      {
+        "key": "B",
+        "text": "Periodic re-estimation of cost to complete."
+      },
+      {
+        "key": "C",
+        "text": "Timely accounting of cost expenditures."
+      },
+      {
+        "key": "D",
+        "text": "A disciplined authorization of expenditures."
+      },
+      {
+        "key": "E",
+        "text": "Good estimating of time, labor and costs."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q17",
+    "variant": 3,
+    "number": 17,
+    "text": "Scenario: A cost engineer on a smart-city project in Shymkent studies why the actual spend[обрезано на фото] exceeds the budget and identifies the causes of the variance.Question: This work belongs to which phase of the operating cycle?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cost data collection and reporting."
+      },
+      {
+        "key": "B",
+        "text": "Work authorization and release."
+      },
+      {
+        "key": "C",
+        "text": "Reporting to customer and management."
+      },
+      {
+        "key": "D",
+        "text": "Cost analysis."
+      },
+      {
+        "key": "E",
+        "text": "The planning cycle."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q18",
+    "variant": 3,
+    "number": 18,
+    "text": "Scenario: For a billing-system upgrade, BCWS = 300, BCWP = 350 and ACWP = 400 (thousand dollars).Question: Which statement correctly describes the project's status?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ahead of schedule and over budget."
+      },
+      {
+        "key": "B",
+        "text": "On schedule and over budget."
+      },
+      {
+        "key": "C",
+        "text": "Behind schedule and under budget."
+      },
+      {
+        "key": "D",
+        "text": "Behind schedule and over budget."
+      },
+      {
+        "key": "E",
+        "text": "Ahead of schedule and under budget."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q19",
+    "variant": 3,
+    "number": 19,
+    "text": "Scenario: A ministry project has CPI = 0.8 and SPI = 1.0.Question: Where should the project manager place the main emphasis?",
+    "options": [
+      {
+        "key": "A",
+        "text": "On the productivity of the work."
+      },
+      {
+        "key": "B",
+        "text": "On revising the budget at completion."
+      },
+      {
+        "key": "C",
+        "text": "On moving funds into the undistributed budget."
+      },
+      {
+        "key": "D",
+        "text": "On the timeliness of physical progress."
+      },
+      {
+        "key": "E",
+        "text": "On shortening the remaining schedule."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q20",
+    "variant": 3,
+    "number": 20,
+    "text": "Scenario: A network upgrade with a BAC of $600 thousand is assessed as 40% complete.Question: What is the earned value (BCWP)?",
+    "options": [
+      {
+        "key": "A",
+        "text": "$400 thousand."
+      },
+      {
+        "key": "B",
+        "text": "$300 thousand."
+      },
+      {
+        "key": "C",
+        "text": "$240 thousand."
+      },
+      {
+        "key": "D",
+        "text": "$125 thousand."
+      },
+      {
+        "key": "E",
+        "text": "$500 thousand."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q21",
+    "variant": 3,
+    "number": 21,
+    "text": "Scenario: After weeks of debate, a bank's project team begins to cooperate smoothly. Members feel attached to the team and share expectations about how work should be done.Question: Which stage has the team most likely reached?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Performing."
+      },
+      {
+        "key": "B",
+        "text": "Forming."
+      },
+      {
+        "key": "C",
+        "text": "Adjourning."
+      },
+      {
+        "key": "D",
+        "text": "Storming."
+      },
+      {
+        "key": "E",
+        "text": "Norming."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q22",
+    "variant": 3,
+    "number": 22,
+    "text": "Scenario: An HR specialist at a bank in Almaty writes down the pattern of behavior attached to the position of release manager, regardless of who fills it.Question: Which concept is being described?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A role set."
+      },
+      {
+        "key": "B",
+        "text": "A norm of the group."
+      },
+      {
+        "key": "C",
+        "text": "Group cohesiveness."
+      },
+      {
+        "key": "D",
+        "text": "A role."
+      },
+      {
+        "key": "E",
+        "text": "A status hierarchy."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q23",
+    "variant": 3,
+    "number": 23,
+    "text": "Scenario: On a ministry e-government project, the testing group and the development group constantly blame each other for missed specifications and delivery dates.Question: Which conclusion is most appropriate for senior management?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Delivery dates should be removed from the project plan."
+      },
+      {
+        "key": "B",
+        "text": "The testing group should be disbanded and outsourced."
+      },
+      {
+        "key": "C",
+        "text": "The organization may not be designed for project work."
+      },
+      {
+        "key": "D",
+        "text": "Only the development group's leader should be replaced."
+      },
+      {
+        "key": "E",
+        "text": "The testing group lacks the needed technical skills."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q24",
+    "variant": 3,
+    "number": 24,
+    "text": "Scenario: A project manager sees a growing integration problem, but both she and the head of the QA department tell every status meeting that \"everything is fine\".Question: At which stage of trust are the two sides?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Blaming each other for the problem."
+      },
+      {
+        "key": "B",
+        "text": "Admitting responsibility for it."
+      },
+      {
+        "key": "C",
+        "text": "Denying that a problem exists."
+      },
+      {
+        "key": "D",
+        "text": "Anticipating problems together."
+      },
+      {
+        "key": "E",
+        "text": "Working it out face-to-face."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q25",
+    "variant": 3,
+    "number": 25,
+    "text": "Scenario: The HR department of a bank values the traditional structure because every employee has one and only one person to report to.Question: Which advantage of the traditional structure does this provide?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Good control over personnel."
+      },
+      {
+        "key": "B",
+        "text": "Quick response to customers."
+      },
+      {
+        "key": "C",
+        "text": "Strong horizontal communication."
+      },
+      {
+        "key": "D",
+        "text": "Clear project accountability."
+      },
+      {
+        "key": "E",
+        "text": "Simple cross-unit coordination."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q26",
+    "variant": 3,
+    "number": 26,
+    "text": "Scenario: At a traditionally organized bank, a decision on a new loan system needs sign-off from four departments, adding several weeks to the schedule.Question: Which disadvantage does this illustrate?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Specialists unable to share their knowledge."
+      },
+      {
+        "key": "B",
+        "text": "Difficult budgeting and cost control."
+      },
+      {
+        "key": "C",
+        "text": "Employees having more than one supervisor."
+      },
+      {
+        "key": "D",
+        "text": "Complex coordination and slow approvals."
+      },
+      {
+        "key": "E",
+        "text": "Weak technical control over the work."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q27",
+    "variant": 3,
+    "number": 27,
+    "text": "Scenario: Each functional unit of a bank places a representative on a group that jointly solves project problems; work is on time, but in conflicts members side with their home departments.Question: Which arrangement is this, and what is its key weakness?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A strong matrix in which the PM dominates daily work."
+      },
+      {
+        "key": "B",
+        "text": "A liaison department whose authority ends at the division."
+      },
+      {
+        "key": "C",
+        "text": "A traditional structure with no customer focal point."
+      },
+      {
+        "key": "D",
+        "text": "A pure project team with very high overhead costs."
+      },
+      {
+        "key": "E",
+        "text": "A task force whose members stay loyal to their units."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q28",
+    "variant": 3,
+    "number": 28,
+    "text": "Scenario: A projectized team at an IT company keeps a database specialist on the project for months [обрезано на фото] her tasks are finished.Question: Why does this typically happen in such structures?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The PM fears not getting her back later."
+      },
+      {
+        "key": "B",
+        "text": "Contracts forbid moving staff between projects."
+      },
+      {
+        "key": "C",
+        "text": "Merit reviews require full project tenure."
+      },
+      {
+        "key": "D",
+        "text": "She reports to a line manager in another unit."
+      },
+      {
+        "key": "E",
+        "text": "Functional managers refuse to take her back."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q29",
+    "variant": 3,
+    "number": 29,
+    "text": "Scenario: A company adopts a matrix structure but continues to reward staff only for meeting their functional department's goals.Question: Which implementation requirement is missing?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A single reporting line."
+      },
+      {
+        "key": "B",
+        "text": "A larger marketing budget."
+      },
+      {
+        "key": "C",
+        "text": "Hierarchical referral."
+      },
+      {
+        "key": "D",
+        "text": "Compatible reward systems."
+      },
+      {
+        "key": "E",
+        "text": "Fully dedicated project staff."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q30",
+    "variant": 3,
+    "number": 30,
+    "text": "Scenario: A ministry's portfolio office is deciding which of its upcoming projects should be run with agile methods.Question: Which project characteristic most strongly favors an agile approach?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A fixed scope fully signed off by the customer."
+      },
+      {
+        "key": "B",
+        "text": "Low uncertainty and a stable technology base."
+      },
+      {
+        "key": "C",
+        "text": "Knowledge work in a fast, complex setting."
+      },
+      {
+        "key": "D",
+        "text": "Repeatable work with well-known physical steps."
+      },
+      {
+        "key": "E",
+        "text": "Predictable tasks that follow a known sequence."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q31",
+    "variant": 3,
+    "number": 31,
+    "text": "Scenario: A sponsor tells the project manager: \"Every feature in the specification must be delivered. Estimate whatever time and money that takes.\"Question: Which planning model does this instruction reflect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The agile triangle, with scope allowed to vary."
+      },
+      {
+        "key": "B",
+        "text": "The traditional triangle, with scope fixed."
+      },
+      {
+        "key": "C",
+        "text": "An empirical model driven by experimentation."
+      },
+      {
+        "key": "D",
+        "text": "The inverted triangle, with cost and time fixed."
+      },
+      {
+        "key": "E",
+        "text": "A model where only cost and quality are fixed."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q32",
+    "variant": 3,
+    "number": 32,
+    "text": "Scenario: A team reviews its backlog and drops six rarely used report features, delivering the same business value with much less effort.Question: Which agile principle does this decision apply?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Early and continuous delivery of value."
+      },
+      {
+        "key": "B",
+        "text": "Self-organizing teams creating designs."
+      },
+      {
+        "key": "C",
+        "text": "Daily collaboration with business people."
+      },
+      {
+        "key": "D",
+        "text": "Continuous attention to technical excellence."
+      },
+      {
+        "key": "E",
+        "text": "Simplicity, maximizing the work not done."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q33",
+    "variant": 3,
+    "number": 33,
+    "text": "Scenario: A developer restructures a tangled module to make it easier to read. Users see no change in behavior and no new functions are added.Question: Which XP practice is being applied?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Simple design."
+      },
+      {
+        "key": "B",
+        "text": "Test-driven development."
+      },
+      {
+        "key": "C",
+        "text": "Metaphor."
+      },
+      {
+        "key": "D",
+        "text": "Continuous integration."
+      },
+      {
+        "key": "E",
+        "text": "Refactoring."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q34",
+    "variant": 3,
+    "number": 34,
+    "text": "Scenario: Every small change on an e-government project needs four signatures, and the team produces weekly reports that nobody reads.Question: Which Lean waste does this represent?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Task switching."
+      },
+      {
+        "key": "B",
+        "text": "Extra processes."
+      },
+      {
+        "key": "C",
+        "text": "Extra features."
+      },
+      {
+        "key": "D",
+        "text": "Defects."
+      },
+      {
+        "key": "E",
+        "text": "Partially done work."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q35",
+    "variant": 3,
+    "number": 35,
+    "text": "Scenario: The development unit of a ministry doubled its own speed, but overall delivery to citizens slowed because testing and deployment could not keep up.Question: Which Lean core concept was neglected?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Amplify learning."
+      },
+      {
+        "key": "B",
+        "text": "Build quality in."
+      },
+      {
+        "key": "C",
+        "text": "Optimize the whole."
+      },
+      {
+        "key": "D",
+        "text": "Empower the team."
+      },
+      {
+        "key": "E",
+        "text": "Defer decisions."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q36",
+    "variant": 3,
+    "number": 36,
+    "text": "Scenario: Two candidates for team leader describe their style. One focuses on tasks, control and speed; the other on people, purpose and empowerment.Question: How are these two styles best classified?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Both describe servant leadership in agile teams."
+      },
+      {
+        "key": "B",
+        "text": "The first is agile; the second is a defined process."
+      },
+      {
+        "key": "C",
+        "text": "The first is management; the second is leadership."
+      },
+      {
+        "key": "D",
+        "text": "Both describe traditional command and control."
+      },
+      {
+        "key": "E",
+        "text": "The first is leadership; the second is management."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q37",
+    "variant": 3,
+    "number": 37,
+    "text": "Scenario: At every Sprint Review, an e-government team in Astana identifies the same usability pr[обрезано на фото] and records them in a report, but never changes the Product Backlog or its way of working.Question: How does Scrum characterize this situation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The team is applying empiricism correctly."
+      },
+      {
+        "key": "B",
+        "text": "The team is applying lean thinking correctly."
+      },
+      {
+        "key": "C",
+        "text": "Adaptation should wait until the product is released."
+      },
+      {
+        "key": "D",
+        "text": "Inspection without adaptation is pointless."
+      },
+      {
+        "key": "E",
+        "text": "Transparency without inspection is misleading."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q38",
+    "variant": 3,
+    "number": 38,
+    "text": "Scenario: In a newly formed Scrum Team at a logistics company, the department head insists on assigning daily tasks to each Developer and deciding how they should be done.Question: Which characteristic of a Scrum Team does this conflict with most directly?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Transparency."
+      },
+      {
+        "key": "B",
+        "text": "Self-management."
+      },
+      {
+        "key": "C",
+        "text": "Lean thinking."
+      },
+      {
+        "key": "D",
+        "text": "Cross-functionality."
+      },
+      {
+        "key": "E",
+        "text": "Timeboxing."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q39",
+    "variant": 3,
+    "number": 39,
+    "text": "Scenario: A deputy akim wants a new feature moved to the top of the work list and tells the Developers directly to add it.Question: What is the appropriate way for him to get the Product Backlog changed?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Raise it at the Daily Scrum so Developers can vote."
+      },
+      {
+        "key": "B",
+        "text": "Ask the Developers to add it to the current Sprint."
+      },
+      {
+        "key": "C",
+        "text": "Ask the Scrum Master to reorder the Product Backlog."
+      },
+      {
+        "key": "D",
+        "text": "Add it directly, since senior officials outrank the team."
+      },
+      {
+        "key": "E",
+        "text": "Convince the Product Owner to change the backlog."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q40",
+    "variant": 3,
+    "number": 40,
+    "text": "Scenario: In a team with one-month Sprints, the Sprint Review regularly runs for six hours, and the Daily Scrum often exceeds half an hour.Question: What should the Scrum Master ensure?",
+    "options": [
+      {
+        "key": "A",
+        "text": "That timeboxes are extended when stakeholders need it."
+      },
+      {
+        "key": "B",
+        "text": "That events take place and stay within the timebox."
+      },
+      {
+        "key": "C",
+        "text": "That the Product Owner decides how long events last."
+      },
+      {
+        "key": "D",
+        "text": "That long events are split into separate presentations."
+      },
+      {
+        "key": "E",
+        "text": "That timeboxes are applied only to the Daily Scrum."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q41",
+    "variant": 3,
+    "number": 41,
+    "text": "Scenario: Midway through a Sprint, a deputy minister asks the team to swap half of its items for unrelated urgent work. The change would make the still-valid Sprint Goal unreachable.Question: What is the most appropriate response?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Extend the Sprint by two weeks to fit in the new work."
+      },
+      {
+        "key": "B",
+        "text": "Swap the items, since senior officials can change Sprint scope."
+      },
+      {
+        "key": "C",
+        "text": "Place the request in the Product Backlog for a later Sprint."
+      },
+      {
+        "key": "D",
+        "text": "Accept the work and reduce testing to fit everything in."
+      },
+      {
+        "key": "E",
+        "text": "Let the Scrum Master cancel the Sprint and start a new one."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v3-q42",
+    "variant": 3,
+    "number": 42,
+    "text": "Scenario: Developers at a bank want to drop the familiar \"three questions\" and instead walk the board item by item, focusing on the Sprint Goal. Their Scrum Master is unsure.Question: How does Scrum view this change?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It is allowed only for Sprints shorter than two weeks."
+      },
+      {
+        "key": "B",
+        "text": "It is allowed; Developers choose the structure and techniques."
+      },
+      {
+        "key": "C",
+        "text": "It is not allowed; the board is reviewed only at the Sprint Review."
+      },
+      {
+        "key": "D",
+        "text": "It is allowed only if the Product Owner approves it."
+      },
+      {
+        "key": "E",
+        "text": "It is not allowed; the three questions are mandatory."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q43",
+    "variant": 3,
+    "number": 43,
+    "text": "Scenario: A team at an IT park company turns its Sprint Review into a 30-minute slideshow with no discussion, and stakeholders leave without giving any input.Question: What is the best advice for this team?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Replace it with a written report sent after the Sprint."
+      },
+      {
+        "key": "B",
+        "text": "Move the discussion of next steps to the Retrospective."
+      },
+      {
+        "key": "C",
+        "text": "Keep it short, since the review is mainly a formal demo."
+      },
+      {
+        "key": "D",
+        "text": "Skip stakeholders and present only to the Product Owner."
+      },
+      {
+        "key": "E",
+        "text": "Make it a working session to decide what to do next."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q44",
+    "variant": 3,
+    "number": 44,
+    "text": "Scenario: A university portal team has described five personas: applicant, first-year student, lecturer, dean's office clerk and parent. The budget covers features for only some of them in the first release.Question: What should the team do with these personas?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Drop any persona that has no record in the student database."
+      },
+      {
+        "key": "B",
+        "text": "Treat all five as equally important by default."
+      },
+      {
+        "key": "C",
+        "text": "Let developers vote for the persona they find most interesting."
+      },
+      {
+        "key": "D",
+        "text": "Merge them into one average user to simplify the design."
+      },
+      {
+        "key": "E",
+        "text": "Rank them to find those who gain the most benefit."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v3-q45",
+    "variant": 3,
+    "number": 45,
+    "text": "Scenario: In workshops for a ministry's document-flow system, each department head insists the system should work exactly the way he or she personally works.Question: Which benefit of personas helps the analyst deal with this situation?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Personas stop stakeholders projecting their own biases."
+      },
+      {
+        "key": "B",
+        "text": "Personas remove the need for workshops with departments."
+      },
+      {
+        "key": "C",
+        "text": "Personas give department heads final say on priorities."
+      },
+      {
+        "key": "D",
+        "text": "Personas fix the scope so that no changes are allowed."
+      },
+      {
+        "key": "E",
+        "text": "Personas replace the product owner in decision making."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q46",
+    "variant": 3,
+    "number": 46,
+    "text": "Scenario: Personas for a university distance-learning portal were written in 2020, when most students studied from home. Today most classes are held on campus.Question: What should the analyst do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Review and update the personas."
+      },
+      {
+        "key": "B",
+        "text": "Merge all the personas into a single average student."
+      },
+      {
+        "key": "C",
+        "text": "Delete the personas and rely only on role descriptions."
+      },
+      {
+        "key": "D",
+        "text": "Turn the old personas into acceptance criteria."
+      },
+      {
+        "key": "E",
+        "text": "Keep the personas, since they are fictional anyway."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v3-q47",
+    "variant": 3,
+    "number": 47,
+    "text": "Scenario: A university portal team reviews five backlog entries to find the one written as a prop[обрезано на фото]Question: Which entry correctly states the role, the needed feature and the value?",
+    "options": [
+      {
+        "key": "A",
+        "text": "'As a student, so that I can plan, the timetable needs a new database table.'"
+      },
+      {
+        "key": "B",
+        "text": "'In order to see the exam timetable, I need a new database table.'"
+      },
+      {
+        "key": "C",
+        "text": "'As the timetable system, I need to show exams so that students can plan.'"
+      },
+      {
+        "key": "D",
+        "text": "'As a student, I need to see my exam timetable so that I can plan.'"
+      },
+      {
+        "key": "E",
+        "text": "'As a student, I need to see my exam timetable.'"
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q48",
+    "variant": 3,
+    "number": 48,
+    "text": "Scenario: A QA engineer at a bank needs a basis for regression and exploratory tests for the story 'Block a lost card'.Question: Which source should she rely on first?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The persona's long template."
+      },
+      {
+        "key": "B",
+        "text": "The story's acceptance criteria."
+      },
+      {
+        "key": "C",
+        "text": "The sprint burndown chart."
+      },
+      {
+        "key": "D",
+        "text": "The story's title on the card."
+      },
+      {
+        "key": "E",
+        "text": "The product vision statement."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v3-q49",
+    "variant": 3,
+    "number": 49,
+    "text": "Scenario: An analyst lists activities on a digital-services project that will change once the team starts working with user stories.Question: Which activity is directly affected by user stories?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sprint retrospective."
+      },
+      {
+        "key": "B",
+        "text": "Pair programming."
+      },
+      {
+        "key": "C",
+        "text": "Critical path calculation."
+      },
+      {
+        "key": "D",
+        "text": "Product roadmap."
+      },
+      {
+        "key": "E",
+        "text": "Earned value analysis."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v3-q50",
+    "variant": 3,
+    "number": 50,
+    "text": "Scenario: In a student portal backlog, most stories look like 'As a student, I need a PDF export button.' The 'so that' part is usually left out.Question: Which limitation of user stories does this reflect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Giving too much detail on the user role."
+      },
+      {
+        "key": "B",
+        "text": "Writing too few stories to fill the backlog."
+      },
+      {
+        "key": "C",
+        "text": "Focusing on the WHAT while overlooking the WHY."
+      },
+      {
+        "key": "D",
+        "text": "Making stories too dependent on each other."
+      },
+      {
+        "key": "E",
+        "text": "Relying too heavily on persona differentiators."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v4-q1",
+    "variant": 4,
+    "number": 1,
+    "text": "A logical grouping of contract tasks that have not yet been identified or authorized is held in which budget?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The distributed budget."
+      },
+      {
+        "key": "B",
+        "text": "The management reserve."
+      },
+      {
+        "key": "C",
+        "text": "The undistributed budget."
+      },
+      {
+        "key": "D",
+        "text": "The unallocated budget."
+      },
+      {
+        "key": "E",
+        "text": "The performance budget."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q2",
+    "variant": 4,
+    "number": 2,
+    "text": "Why is the earned value measurement system described as an early warning system?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It compares final cost with the bid after closure."
+      },
+      {
+        "key": "B",
+        "text": "It shows deviations from plan while still small."
+      },
+      {
+        "key": "C",
+        "text": "It sets the management reserve for each phase."
+      },
+      {
+        "key": "D",
+        "text": "It predicts the exact final cost with certainty."
+      },
+      {
+        "key": "E",
+        "text": "It replaces periodic re-estimation of the cost."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q3",
+    "variant": 4,
+    "number": 3,
+    "text": "Which list gives the reasons why people form groups?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Productivity, flexibility, diversity and quality."
+      },
+      {
+        "key": "B",
+        "text": "Structure, status, roles, norms and leadership."
+      },
+      {
+        "key": "C",
+        "text": "Needs, proximity, attraction, goals and economics."
+      },
+      {
+        "key": "D",
+        "text": "Forming, storming, norming, performing, adjourning."
+      },
+      {
+        "key": "E",
+        "text": "Cost, schedule, technical performance and risk."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v4-q4",
+    "variant": 4,
+    "number": 4,
+    "text": "Which term means being answerable for completing a specific assignment satisfactorily?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Accountability."
+      },
+      {
+        "key": "B",
+        "text": "Responsibility."
+      },
+      {
+        "key": "C",
+        "text": "Coordination."
+      },
+      {
+        "key": "D",
+        "text": "Integration."
+      },
+      {
+        "key": "E",
+        "text": "Authority."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q5",
+    "variant": 4,
+    "number": 5,
+    "text": "Through whose eyes is a matrix described as strong or weak?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The line manager's."
+      },
+      {
+        "key": "B",
+        "text": "The customer's."
+      },
+      {
+        "key": "C",
+        "text": "The functional workers'."
+      },
+      {
+        "key": "D",
+        "text": "The general manager's."
+      },
+      {
+        "key": "E",
+        "text": "The project manager's."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q6",
+    "variant": 4,
+    "number": 6,
+    "text": "In a matrix, what is the project manager accountable for?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The overall success of the project."
+      },
+      {
+        "key": "B",
+        "text": "The technical excellence of each discipline."
+      },
+      {
+        "key": "C",
+        "text": "Setting the company's overhead rates."
+      },
+      {
+        "key": "D",
+        "text": "Merit reviews of all functional staff."
+      },
+      {
+        "key": "E",
+        "text": "Resolving conflicts between all projects."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q7",
+    "variant": 4,
+    "number": 7,
+    "text": "Which Agile Manifesto value best reflects the view that skilled team members matter more than methods?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Processes and tools over individuals and interactions."
+      },
+      {
+        "key": "B",
+        "text": "Individuals and interactions over processes and tools."
+      },
+      {
+        "key": "C",
+        "text": "Contract negotiation over customer participation."
+      },
+      {
+        "key": "D",
+        "text": "Responding to change over following a plan."
+      },
+      {
+        "key": "E",
+        "text": "Working software over comprehensive documentation."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q8",
+    "variant": 4,
+    "number": 8,
+    "text": "What does the Kanban principle \"make process policies explicit\" ask a team to do?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Own and improve the process together through experiments."
+      },
+      {
+        "key": "B",
+        "text": "Track the flow of work to measure the effect of changes."
+      },
+      {
+        "key": "C",
+        "text": "Write down how work is done so all can discuss it."
+      },
+      {
+        "key": "D",
+        "text": "Restrict the number of items in progress at once."
+      },
+      {
+        "key": "E",
+        "text": "Show every work item on a shared, visible board."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v4-q9",
+    "variant": 4,
+    "number": 9,
+    "text": "Which statement is one of the eight DSDM principles?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Limit work in progress."
+      },
+      {
+        "key": "B",
+        "text": "Defer decisions."
+      },
+      {
+        "key": "C",
+        "text": "Expect uncertainty."
+      },
+      {
+        "key": "D",
+        "text": "Sustainable pace."
+      },
+      {
+        "key": "E",
+        "text": "Demonstrate control."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q10",
+    "variant": 4,
+    "number": 10,
+    "text": "According to the Scrum Guide, what do the Scrum values give direction to?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The length of each Sprint."
+      },
+      {
+        "key": "B",
+        "text": "The content of the Definition of Done."
+      },
+      {
+        "key": "C",
+        "text": "The selection of team tools."
+      },
+      {
+        "key": "D",
+        "text": "The order of Product Backlog items."
+      },
+      {
+        "key": "E",
+        "text": "The team's work, actions and behavior."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q11",
+    "variant": 4,
+    "number": 11,
+    "text": "What is the maximum timebox for Sprint Planning in a one-month Sprint?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Eight hours."
+      },
+      {
+        "key": "B",
+        "text": "Three hours."
+      },
+      {
+        "key": "C",
+        "text": "Two hours."
+      },
+      {
+        "key": "D",
+        "text": "Four hours."
+      },
+      {
+        "key": "E",
+        "text": "Fifteen minutes."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q12",
+    "variant": 4,
+    "number": 12,
+    "text": "According to the Scrum Guide, who is responsible for sizing Product Backlog items?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The organization's senior management."
+      },
+      {
+        "key": "B",
+        "text": "The Scrum Master, who coaches the team."
+      },
+      {
+        "key": "C",
+        "text": "The key stakeholders, who fund the product."
+      },
+      {
+        "key": "D",
+        "text": "The Developers who will do the work."
+      },
+      {
+        "key": "E",
+        "text": "The Product Owner, who orders the items."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q13",
+    "variant": 4,
+    "number": 13,
+    "text": "Which persona element states what makes one persona unique compared with another persona?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Name and image."
+      },
+      {
+        "key": "B",
+        "text": "Differentiators."
+      },
+      {
+        "key": "C",
+        "text": "Needs."
+      },
+      {
+        "key": "D",
+        "text": "Motivations."
+      },
+      {
+        "key": "E",
+        "text": "Short template."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q14",
+    "variant": 4,
+    "number": 14,
+    "text": "Under INVEST, what makes a user story Testable?",
+    "options": [
+      {
+        "key": "A",
+        "text": "It can be delivered apart from other features."
+      },
+      {
+        "key": "B",
+        "text": "The team can negotiate how to deliver it."
+      },
+      {
+        "key": "C",
+        "text": "A stakeholder can validate it objectively."
+      },
+      {
+        "key": "D",
+        "text": "The team can estimate it from past experience."
+      },
+      {
+        "key": "E",
+        "text": "It shows the value it brings to the customer."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v4-q15",
+    "variant": 4,
+    "number": 15,
+    "text": "What style is recommended for the title on a user story card?",
+    "options": [
+      {
+        "key": "A",
+        "text": "A number from the product backlog."
+      },
+      {
+        "key": "B",
+        "text": "A short acceptance criterion."
+      },
+      {
+        "key": "C",
+        "text": "A noun naming the system module."
+      },
+      {
+        "key": "D",
+        "text": "An active-verb goal phrase."
+      },
+      {
+        "key": "E",
+        "text": "The name of the main persona."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q16",
+    "variant": 4,
+    "number": 16,
+    "text": "Scenario: At an IT startup in Astana, hours worked and money spent are entered into the project records only at the end of each quarter, often two months after the work was done.Question: Which requirement of effective cost and schedule control is weakest here?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Thorough planning of the work to be done."
+      },
+      {
+        "key": "B",
+        "text": "Timely accounting of progress and costs."
+      },
+      {
+        "key": "C",
+        "text": "Disciplined authorization of spending."
+      },
+      {
+        "key": "D",
+        "text": "Clear communication of the task scope."
+      },
+      {
+        "key": "E",
+        "text": "Good estimating of labor and costs."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q17",
+    "variant": 4,
+    "number": 17,
+    "text": "Scenario: Each month the project manager of a digital-ID project presents status, variances and forecasts to the client ministry and to the company's executive board.Question: Which phase of the operating cycle does this represent?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Cost analysis."
+      },
+      {
+        "key": "B",
+        "text": "Customer and management reporting."
+      },
+      {
+        "key": "C",
+        "text": "Cost data collection and reporting."
+      },
+      {
+        "key": "D",
+        "text": "The planning cycle."
+      },
+      {
+        "key": "E",
+        "text": "Work authorization and release."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q18",
+    "variant": 4,
+    "number": 18,
+    "text": "Scenario: A school-digitization project reports, in million tenge: BCWS = 80, BCWP = 80, ACWP = 70.Question: What can be concluded from CV and SV?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Over budget by 10 and exactly on schedule."
+      },
+      {
+        "key": "B",
+        "text": "Over budget by 10 and ahead of schedule by 10."
+      },
+      {
+        "key": "C",
+        "text": "On budget and ahead of schedule by 10."
+      },
+      {
+        "key": "D",
+        "text": "Under budget by 10 and behind schedule by 10."
+      },
+      {
+        "key": "E",
+        "text": "Under budget by 10 and exactly on schedule."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q19",
+    "variant": 4,
+    "number": 19,
+    "text": "Scenario: A fintech startup's project has CPI = 1.1 and SPI = 0.75.Question: What should be the main focus of corrective action?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Improving the productivity of the work force."
+      },
+      {
+        "key": "B",
+        "text": "Reducing the burn rate of the budget."
+      },
+      {
+        "key": "C",
+        "text": "Re-baselining the budget at completion."
+      },
+      {
+        "key": "D",
+        "text": "Improving the timeliness of physical progress."
+      },
+      {
+        "key": "E",
+        "text": "Releasing the management reserve."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q20",
+    "variant": 4,
+    "number": 20,
+    "text": "Scenario: A project was originally planned to last 12 months, and its SPI is now 0.8.Question: What is the new estimated project length?",
+    "options": [
+      {
+        "key": "A",
+        "text": "12.8 months."
+      },
+      {
+        "key": "B",
+        "text": "10 months."
+      },
+      {
+        "key": "C",
+        "text": "14 months."
+      },
+      {
+        "key": "D",
+        "text": "9.6 months."
+      },
+      {
+        "key": "E",
+        "text": "15 months."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q21",
+    "variant": 4,
+    "number": 21,
+    "text": "Scenario: The team that launched an akimat's open-data portal has delivered all tasks. Members hold a final meeting, and some express sadness about losing daily contact.Question: Which stage of group development is this?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Norming."
+      },
+      {
+        "key": "B",
+        "text": "Performing."
+      },
+      {
+        "key": "C",
+        "text": "Storming."
+      },
+      {
+        "key": "D",
+        "text": "Forming."
+      },
+      {
+        "key": "E",
+        "text": "Adjourning."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q22",
+    "variant": 4,
+    "number": 22,
+    "text": "Scenario: At an akimat, management, the IT team and the analyst herself each have a different picture of what the 'business analyst' position should involve.Question: How is this situation best explained?",
+    "options": [
+      {
+        "key": "A",
+        "text": "One role can be perceived in up to three ways."
+      },
+      {
+        "key": "B",
+        "text": "The team has fallen into groupthink."
+      },
+      {
+        "key": "C",
+        "text": "The team has reached the adjourning stage."
+      },
+      {
+        "key": "D",
+        "text": "The analyst is going through the storming stage."
+      },
+      {
+        "key": "E",
+        "text": "The analyst has joined an informal interest group."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q23",
+    "variant": 4,
+    "number": 23,
+    "text": "Scenario: An akimat's digital projects are delivered on time and to specification, but the groups and individuals involved are not satisfied with what they achieved.Question: What does this pattern most likely suggest?",
+    "options": [
+      {
+        "key": "A",
+        "text": "No change is needed because targets were met."
+      },
+      {
+        "key": "B",
+        "text": "The akimat has found its ideal permanent structure."
+      },
+      {
+        "key": "C",
+        "text": "The projects were scoped far too conservatively."
+      },
+      {
+        "key": "D",
+        "text": "Met targets can still hide a structural mismatch."
+      },
+      {
+        "key": "E",
+        "text": "Staff satisfaction has nothing to do with structure."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q24",
+    "variant": 4,
+    "number": 24,
+    "text": "Scenario: At a bank in Almaty, a project manager and a functional manager have stopped blaming each other, and each has openly admitted their part in a delayed release.Question: What is the next stage in the growth of their trust?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Denying that the problem exists at all."
+      },
+      {
+        "key": "B",
+        "text": "Meeting face-to-face to solve the problem."
+      },
+      {
+        "key": "C",
+        "text": "Blaming each other once the problem surfaces."
+      },
+      {
+        "key": "D",
+        "text": "Anticipating problems before they occur."
+      },
+      {
+        "key": "E",
+        "text": "Escalating the problem to the general manager."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q25",
+    "variant": 4,
+    "number": 25,
+    "text": "Scenario: A regional bank is debating whether to keep its classical functional structure.Question: Which statement is an advantage of that structure?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Projects rarely fall behind their schedules."
+      },
+      {
+        "key": "B",
+        "text": "One individual is responsible for the total project."
+      },
+      {
+        "key": "C",
+        "text": "Ideas are strongly oriented toward the ongoing projects."
+      },
+      {
+        "key": "D",
+        "text": "Vertical communication channels are well established."
+      },
+      {
+        "key": "E",
+        "text": "Decisions are balanced across all functional groups."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q26",
+    "variant": 4,
+    "number": 26,
+    "text": "Scenario: In a functional engineering firm, every dispute about a joint design is settled in favor of the largest and most powerful department.Question: Which weakness of the traditional structure is this?",
+    "options": [
+      {
+        "key": "A",
+        "text": "There is no technical control over the design."
+      },
+      {
+        "key": "B",
+        "text": "Personnel cannot be reused across projects."
+      },
+      {
+        "key": "C",
+        "text": "Decisions favor the strongest units."
+      },
+      {
+        "key": "D",
+        "text": "There are too many project managers involved."
+      },
+      {
+        "key": "E",
+        "text": "Communication channels are poorly established."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v4-q27",
+    "variant": 4,
+    "number": 27,
+    "text": "Scenario: An engineering division has a liaison department that handles engineering changes between its units. A conflict now arises between the engineering and manufacturing divisions.Question: How is this conflict most likely resolved?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The engineering head decides alone."
+      },
+      {
+        "key": "B",
+        "text": "The customer is asked to arbitrate."
+      },
+      {
+        "key": "C",
+        "text": "It is referred to upper management."
+      },
+      {
+        "key": "D",
+        "text": "The task force votes on a solution."
+      },
+      {
+        "key": "E",
+        "text": "The liaison department resolves it alone."
+      }
+    ],
+    "correct": "C"
+  },
+  {
+    "id": "v4-q33",
+    "variant": 4,
+    "number": 33,
+    "text": "Scenario: On an XP project for a regional akimat, one person represents the business, sets requirements and priorities, and confirms the final product works as intended.Question: Which XP role does this person hold?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tester."
+      },
+      {
+        "key": "B",
+        "text": "Customer."
+      },
+      {
+        "key": "C",
+        "text": "Coach."
+      },
+      {
+        "key": "D",
+        "text": "Sponsor."
+      },
+      {
+        "key": "E",
+        "text": "Programmer."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q34",
+    "variant": 4,
+    "number": 34,
+    "text": "Scenario: Without being asked, a team adds an animated 3D dashboard to an akimat's reporting system. The akimat never uses it.Question: Which Lean waste does this represent?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Defects."
+      },
+      {
+        "key": "B",
+        "text": "Partially done work."
+      },
+      {
+        "key": "C",
+        "text": "Motion."
+      },
+      {
+        "key": "D",
+        "text": "Extra features."
+      },
+      {
+        "key": "E",
+        "text": "Extra processes."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q35",
+    "variant": 4,
+    "number": 35,
+    "text": "Scenario: Instead of inspecting the finished system at the end, a team reviews and tests every piece of work as soon as it is produced, at each stage of development.Question: Which Lean core concept does this reflect?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Defer decisions."
+      },
+      {
+        "key": "B",
+        "text": "Optimize the whole."
+      },
+      {
+        "key": "C",
+        "text": "Eliminate waste."
+      },
+      {
+        "key": "D",
+        "text": "Build quality in."
+      },
+      {
+        "key": "E",
+        "text": "Deliver fast."
+      }
+    ],
+    "correct": "D"
+  },
+  {
+    "id": "v4-q36",
+    "variant": 4,
+    "number": 36,
+    "text": "Scenario: Two senior developers on a ministry project openly disagree about the system architecture and debate it in a team meeting.Question: How should an agile leader view this conflict?",
+    "options": [
+      {
+        "key": "A",
+        "text": "As a positive step in team development."
+      },
+      {
+        "key": "B",
+        "text": "As acceptable only if a manager chairs it."
+      },
+      {
+        "key": "C",
+        "text": "As a reason to impose a final decision."
+      },
+      {
+        "key": "D",
+        "text": "As a sign the team should be split up."
+      },
+      {
+        "key": "E",
+        "text": "As a matter to settle outside the team."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q37",
+    "variant": 4,
+    "number": 37,
+    "text": "Scenario: Halfway through a Sprint, the Developers of a fintech startup discover that a payment API they are integrating behaves differently than they assumed.Question: When does Scrum expect the team to adjust its plan and work?",
+    "options": [
+      {
+        "key": "A",
+        "text": "At the end of the release, when all data is available."
+      },
+      {
+        "key": "B",
+        "text": "As soon as possible, to minimize further deviation."
+      },
+      {
+        "key": "C",
+        "text": "Only after the Product Owner cancels the Sprint."
+      },
+      {
+        "key": "D",
+        "text": "At the Sprint Review, after stakeholders give feedback."
+      },
+      {
+        "key": "E",
+        "text": "At the next Sprint Retrospective, after discussion."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q43",
+    "variant": 4,
+    "number": 43,
+    "text": "Scenario: For a one-month Sprint, a team schedules a four-hour Sprint Review and a four-hour Sprint Retrospective.Question: Which statement is correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "The Review exceeds its two-hour maximum."
+      },
+      {
+        "key": "B",
+        "text": "The Retrospective exceeds its three-hour maximum."
+      },
+      {
+        "key": "C",
+        "text": "Both are within their timeboxes for a one-month Sprint."
+      },
+      {
+        "key": "D",
+        "text": "The Review exceeds its three-hour maximum."
+      },
+      {
+        "key": "E",
+        "text": "Both events exceed their two-hour maximum."
+      }
+    ],
+    "correct": "B"
+  },
+  {
+    "id": "v4-q44",
+    "variant": 4,
+    "number": 44,
+    "text": "Scenario: An IT outsourcing company in Astana builds a mobile app for the tax authority, but its developers are not allowed to meet taxpayers directly.Question: Which technique best helps the team understand value from the taxpayer's point of view?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Personas."
+      },
+      {
+        "key": "B",
+        "text": "Story decomposition."
+      },
+      {
+        "key": "C",
+        "text": "Product roadmap."
+      },
+      {
+        "key": "D",
+        "text": "Regression testing."
+      },
+      {
+        "key": "E",
+        "text": "Velocity tracking."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q45",
+    "variant": 4,
+    "number": 45,
+    "text": "Scenario: An analyst for a regional akimat's social-benefits portal has official statistics on the age, district and income of benefit applicants.Question: How should she best use this data?",
+    "options": [
+      {
+        "key": "A",
+        "text": "As input used only for the project cost estimate."
+      },
+      {
+        "key": "B",
+        "text": "As the product vision statement for the portal."
+      },
+      {
+        "key": "C",
+        "text": "As the acceptance criteria for each user story."
+      },
+      {
+        "key": "D",
+        "text": "As a replacement for personas, since statistics are more exact."
+      },
+      {
+        "key": "E",
+        "text": "As a starting point for a representative pool of personas."
+      }
+    ],
+    "correct": "E"
+  },
+  {
+    "id": "v4-q46",
+    "variant": 4,
+    "number": 46,
+    "text": "Scenario: A team designing an online pension calculator plans to use personas as the only source of user insight for the whole project.Question: Which is the strongest argument against this plan?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Personas are not a substitute for real user input."
+      },
+      {
+        "key": "B",
+        "text": "Personas cannot be ranked by the benefit they get."
+      },
+      {
+        "key": "C",
+        "text": "Personas can only be used by the product owner."
+      },
+      {
+        "key": "D",
+        "text": "Personas cannot include images or names of users."
+      },
+      {
+        "key": "E",
+        "text": "Personas must always start with the long template."
+      }
+    ],
+    "correct": "A"
+  },
+  {
+    "id": "v4-q47",
+    "variant": 4,
+    "number": 47,
+    "text": "Scenario: A junior developer at a fintech startup believes that only the product owner may write user stories and that every backlog item must be a user story.Question: Which statement is correct?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Only the product owner writes stories, and every item must be a story."
+      },
+      {
+        "key": "B",
+        "text": "Several roles may write stories; not every item must be one."
+      },
+      {
+        "key": "C",
+        "text": "Testers write stories after the feature has already been built."
+      },
+      {
+        "key": "D",
+        "text": "Only customers write stories, and other items stay off the backlog."
+      },
+      {
+        "key": "E",
+        "text": "Only developers write stories, since they estimate and deliver them."
+      }
+    ],
+    "correct": "B"
+  }
+]
