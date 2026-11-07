@@ -183,7 +183,7 @@
     "id": "q7",
     "variant": 1,
     "number": 7,
-    "text": "At which stage of trust are the two sides?\n\nМенеджеры видят проблему, но сообщают, что всё хорошо.",
+    "text": "At which stage of trust are the two sides?\n\nThe managers recognize a problem but report that everything is fine.",
     "correct": "C",
     "options": [
       {
@@ -243,7 +243,7 @@
     "id": "q9",
     "variant": 1,
     "number": 9,
-    "text": "Following the agile triangle, what should be adjusted?\n\nБюджет 100 млн тенге и срок шесть месяцев фиксированы; все функции не помещаются.",
+    "text": "Following the agile triangle, what should be adjusted?\n\nThe budget of KZT 100 million and the six-month deadline are fixed; not all features can fit within these constraints.",
     "correct": "A",
     "options": [
       {
@@ -273,7 +273,7 @@
     "id": "q10",
     "variant": 1,
     "number": 10,
-    "text": "For which company would a matrix be most practical?\n\nСравнение компаний для применения матричной структуры.",
+    "text": "For which company would a matrix be most practical?\n\nCompanies are being compared to determine where a matrix structure would be most practical.",
     "correct": "B",
     "options": [
       {
@@ -333,7 +333,7 @@
     "id": "q12",
     "variant": 1,
     "number": 12,
-    "text": "How are these two styles best classified?\n\nПервый лидер ставит в центр задачи, контроль и скорость; второй — людей, смысл и полномочия.",
+    "text": "How are these two styles best classified?\n\nThe first leader focuses on tasks, control and speed; the second focuses on people, purpose and empowerment.",
     "correct": "C",
     "options": [
       {
@@ -393,7 +393,7 @@
     "id": "q14",
     "variant": 1,
     "number": 14,
-    "text": "How does Scrum characterize this situation?\n\nПроблемы регулярно выявляют и записывают, но backlog и методы работы не меняют.",
+    "text": "How does Scrum characterize this situation?\n\nProblems are regularly identified and recorded, but the backlog and working methods are not changed.",
     "correct": "D",
     "options": [
       {
@@ -423,7 +423,7 @@
     "id": "q15",
     "variant": 1,
     "number": 15,
-    "text": "How does Scrum view this change?\n\nРазработчики хотят обсуждать доску вместо трёх привычных вопросов на Daily Scrum.",
+    "text": "How does Scrum view this change?\n\nThe Developers want to discuss the board instead of answering the three customary questions at the Daily Scrum.",
     "correct": "B",
     "options": [
       {
@@ -453,7 +453,7 @@
     "id": "q16",
     "variant": 1,
     "number": 16,
-    "text": "How does she take part in the Daily Scrum?\n\nProduct Owner также пишет код для элемента текущего Sprint Backlog.",
+    "text": "How does she take part in the Daily Scrum?\n\nThe Product Owner also writes code for an item in the current Sprint Backlog.",
     "correct": "A",
     "options": [
       {
@@ -479,7 +479,7 @@
     "id": "q17",
     "variant": 1,
     "number": 17,
-    "text": "How is this conflict most likely resolved?\n\nLiaison department действует внутри инженерного подразделения, а конфликт возник с производственным.",
+    "text": "How is this conflict most likely resolved?\n\nA liaison department operates within the engineering division, but the conflict is with the manufacturing division.",
     "correct": "C",
     "options": [
       {
@@ -509,7 +509,7 @@
     "id": "q18",
     "variant": 1,
     "number": 18,
-    "text": "How is this situation best explained?\n\nМенеджмент, IT-команда и аналитик по-разному понимают роль аналитика.",
+    "text": "How is this situation best explained?\n\nManagement, the IT team and the analyst have different understandings of the analyst's role.",
     "correct": "A",
     "options": [
       {
@@ -539,7 +539,7 @@
     "id": "q19",
     "variant": 1,
     "number": 19,
-    "text": "How should an agile leader view this conflict?\n\nРазработчики открыто и спокойно обсуждают разногласия по архитектуре.",
+    "text": "How should an agile leader view this conflict?\n\nThe Developers openly and calmly discuss disagreements about the architecture.",
     "correct": "A",
     "options": [
       {
@@ -569,7 +569,7 @@
     "id": "q20",
     "variant": 1,
     "number": 20,
-    "text": "How should she best use this data?\n\nЕсть статистика возраста, района и доходов получателей пособий.",
+    "text": "How should she best use this data?\n\nStatistics are available on the age, district and income of benefit recipients.",
     "correct": "E",
     "options": [
       {
@@ -599,7 +599,7 @@
     "id": "q21",
     "variant": 1,
     "number": 21,
-    "text": "If current cost efficiency continues, what is the variance at completion?\n\nCRM: BAC = 800, BCWP = 400, ACWP = 500 тыс. долларов.",
+    "text": "If current cost efficiency continues, what is the variance at completion?\n\nA CRM project has BAC = 800, BCWP = 400 and ACWP = 500, all in thousands of dollars.",
     "correct": "B",
     "options": [
       {
@@ -659,7 +659,7 @@
     "id": "q23",
     "variant": 1,
     "number": 23,
-    "text": "If trust continues to grow, what should happen next?\n\nПосле неудачной миграции руководители обвиняют друг друга.",
+    "text": "If trust continues to grow, what should happen next?\n\nAfter a failed migration, the managers blame each other.",
     "correct": "A",
     "options": [
       {
@@ -865,7 +865,7 @@
     "id": "q30",
     "variant": 1,
     "number": 30,
-    "text": "This work belongs to which phase of the operating cycle?\n\nИнженер анализирует причины превышения фактических затрат над бюджетом.",
+    "text": "This work belongs to which phase of the operating cycle?\n\nAn engineer analyzes why actual costs have exceeded the budget.",
     "correct": "D",
     "options": [
       {
@@ -925,7 +925,7 @@
     "id": "q32",
     "variant": 1,
     "number": 32,
-    "text": "To which phase of the operating cycle does this activity belong?\n\nПосле утверждения плана выдано разрешение на работы и выделены средства.",
+    "text": "To which phase of the operating cycle does this activity belong?\n\nAfter the plan is approved, work is authorized and funds are released.",
     "correct": "A",
     "options": [
       {
@@ -1011,7 +1011,7 @@
     "id": "q35",
     "variant": 1,
     "number": 35,
-    "text": "Under which condition does such a structure give stable work and minimal conflict?\n\nХолдинг рассматривает проектную структуру для дочерней компании.",
+    "text": "Under which condition does such a structure give stable work and minimal conflict?\n\nA holding company is considering a projectized structure for a subsidiary.",
     "correct": "E",
     "options": [
       {
@@ -1071,7 +1071,7 @@
     "id": "q37",
     "variant": 1,
     "number": 37,
-    "text": "What best explains the delays?\n\nОтделы сначала выполняют текущую работу, откладывая проектные задачи.",
+    "text": "What best explains the delays?\n\nDepartments complete their routine work first, postponing project tasks.",
     "correct": "A",
     "options": [
       {
@@ -1097,7 +1097,7 @@
     "id": "q38",
     "variant": 1,
     "number": 38,
-    "text": "What can be concluded from CV and SV?\n\nBCWS = 80, BCWP = 80, ACWP = 70 млн тенге.",
+    "text": "What can be concluded from CV and SV?\n\nBCWS = 80, BCWP = 80 and ACWP = 70, all in millions of tenge.",
     "correct": "E",
     "options": [
       {
@@ -1127,7 +1127,7 @@
     "id": "q39",
     "variant": 1,
     "number": 39,
-    "text": "What can the team do with this improvement?\n\nНа Sprint Retrospective решено автоматизировать ручные шаги развёртывания.",
+    "text": "What can the team do with this improvement?\n\nAt the Sprint Retrospective, the team decides to automate manual deployment steps.",
     "correct": "E",
     "options": [
       {
@@ -1187,7 +1187,7 @@
     "id": "q41",
     "variant": 1,
     "number": 41,
-    "text": "What does Scrum allow them to do?\n\nЗадача оказалась больше ожидаемого, но Sprint Goal достижима при меньшем объёме.",
+    "text": "What does Scrum allow them to do?\n\nA task turns out to be larger than expected, but the Sprint Goal remains achievable with a smaller scope.",
     "correct": "A",
     "options": [
       {
@@ -1217,7 +1217,7 @@
     "id": "q42",
     "variant": 1,
     "number": 42,
-    "text": "What does Scrum say about this proposal?\n\nКоманда предлагает шестинедельные спринты.",
+    "text": "What does Scrum say about this proposal?\n\nThe team proposes six-week Sprints.",
     "correct": "E",
     "options": [
       {
@@ -1247,7 +1247,7 @@
     "id": "q43",
     "variant": 1,
     "number": 43,
-    "text": "What does Scrum say is needed for the Product Owner to succeed?\n\nНачальники отделов отменяют решения Product Owner о порядке backlog.",
+    "text": "What does Scrum say is needed for the Product Owner to succeed?\n\nDepartment heads override the Product Owner's decisions about backlog ordering.",
     "correct": "B",
     "options": [
       {
@@ -1277,7 +1277,7 @@
     "id": "q44",
     "variant": 1,
     "number": 44,
-    "text": "What does Scrum suggest?\n\nScrum-команда выросла до 18 человек, общение замедлилось.",
+    "text": "What does Scrum suggest?\n\nThe Scrum Team has grown to 18 people, and communication has slowed down.",
     "correct": "A",
     "options": [
       {
@@ -1453,7 +1453,7 @@
     "id": "q50",
     "variant": 2,
     "number": 50,
-    "text": "What does this pattern most likely suggest?\n\nПроекты сданы вовремя и по спецификации, но участники недовольны результатом.",
+    "text": "What does this pattern most likely suggest?\n\nProjects are delivered on time and to specification, but the participants are dissatisfied with the results.",
     "correct": "D",
     "options": [
       {
@@ -1483,7 +1483,7 @@
     "id": "q51",
     "variant": 2,
     "number": 51,
-    "text": "What does this situation most likely indicate?\n\nСильные инженеры, но проекты опаздывают и превышают бюджет.",
+    "text": "What does this situation most likely indicate?\n\nThe engineers are highly skilled, but projects are late and over budget.",
     "correct": "E",
     "options": [
       {
@@ -1543,7 +1543,7 @@
     "id": "q53",
     "variant": 2,
     "number": 53,
-    "text": "What is the appropriate way for him to get the Product Backlog changed?\n\nСтейкхолдер просит разработчиков напрямую поднять приоритет новой функции.",
+    "text": "What is the appropriate way for him to get the Product Backlog changed?\n\nA stakeholder asks the Developers directly to raise the priority of a new feature.",
     "correct": "E",
     "options": [
       {
@@ -1573,7 +1573,7 @@
     "id": "q54",
     "variant": 2,
     "number": 54,
-    "text": "What is the best advice for this team?\n\nSprint Review превратился в презентацию без обсуждения и обратной связи.",
+    "text": "What is the best advice for this team?\n\nThe Sprint Review has become a presentation without discussion or feedback.",
     "correct": "E",
     "options": [
       {
@@ -1603,7 +1603,7 @@
     "id": "q55",
     "variant": 2,
     "number": 55,
-    "text": "What is the best explanation?\n\nФункциональная структура даёт коллективные решения без единого ответственного за неудачи.",
+    "text": "What is the best explanation?\n\nA functional structure produces collective decisions without a single person accountable for failures.",
     "correct": "D",
     "options": [
       {
@@ -1693,7 +1693,7 @@
     "id": "q58",
     "variant": 2,
     "number": 58,
-    "text": "What is the earned value (BCWP)?\n\nBAC = $600 тыс.; выполнено 40% работ.",
+    "text": "What is the earned value (BCWP)?\n\nBAC = $600 thousand; 40% of the work has been completed.",
     "correct": "C",
     "options": [
       {
@@ -1723,7 +1723,7 @@
     "id": "q59",
     "variant": 2,
     "number": 59,
-    "text": "What is the estimate at completion if this efficiency continues?\n\nHR system: BAC = 1,000 тыс., CPI = 0.8.",
+    "text": "What is the estimate at completion if this efficiency continues?\n\nAn HR system project has BAC = 1,000 thousand dollars and CPI = 0.8.",
     "correct": "D",
     "options": [
       {
@@ -1753,7 +1753,7 @@
     "id": "q60",
     "variant": 2,
     "number": 60,
-    "text": "What is the main benefit of this change?\n\nВместо 200-страничных спецификаций — user stories и релизы каждые две недели.",
+    "text": "What is the main benefit of this change?\n\nThe team replaces 200-page specifications with user stories and releases every two weeks.",
     "correct": "C",
     "options": [
       {
@@ -1783,7 +1783,7 @@
     "id": "q61",
     "variant": 2,
     "number": 61,
-    "text": "What is the main issue with this approach?\n\nScrum Master каждое утро распределяет задания.",
+    "text": "What is the main issue with this approach?\n\nThe Scrum Master assigns tasks every morning.",
     "correct": "A",
     "options": [
       {
@@ -1813,7 +1813,7 @@
     "id": "q62",
     "variant": 2,
     "number": 62,
-    "text": "What is the main organizational consequence of such role conflict?\n\nРуководители получают одновременно несовместимые требования.",
+    "text": "What is the main organizational consequence of such role conflict?\n\nManagers receive incompatible demands at the same time.",
     "correct": "E",
     "options": [
       {
@@ -1843,7 +1843,7 @@
     "id": "q63",
     "variant": 2,
     "number": 63,
-    "text": "What is the main problem with this arrangement from a Scrum perspective?\n\nПять заместителей совместно назначены Product Owner.",
+    "text": "What is the main problem with this arrangement from a Scrum perspective?\n\nFive deputies are jointly appointed as the Product Owner.",
     "correct": "B",
     "options": [
       {
@@ -1873,7 +1873,7 @@
     "id": "q64",
     "variant": 2,
     "number": 64,
-    "text": "What is the main purpose of creating this description?\n\nПерсона Aigerim, 34 года, владелица пекарни: цели, навыки и рабочий день.",
+    "text": "What is the main purpose of creating this description?\n\nA persona describes Aigerim, a 34-year-old bakery owner, including her goals, skills and working day.",
     "correct": "C",
     "options": [
       {
@@ -1903,7 +1903,7 @@
     "id": "q65",
     "variant": 2,
     "number": 65,
-    "text": "What is the main purpose of the event that they are missing?\n\nНа Daily Scrum отчитываются о часах; время и место постоянно меняются.",
+    "text": "What is the main purpose of the event that they are missing?\n\nAt the Daily Scrum, participants report hours worked; the meeting time and location keep changing.",
     "correct": "E",
     "options": [
       {
@@ -1933,7 +1933,7 @@
     "id": "q66",
     "variant": 2,
     "number": 66,
-    "text": "What is the main weakness of this persona?\n\n“Average citizen” любого возраста, региона, языка и навыков.",
+    "text": "What is the main weakness of this persona?\n\nThe persona is an \"average citizen\" of any age, region, language and skill level.",
     "correct": "C",
     "options": [
       {
@@ -1993,7 +1993,7 @@
     "id": "q68",
     "variant": 2,
     "number": 68,
-    "text": "What is the most appropriate improvement to the control system?\n\nФактические результаты сравнивают с базовым планом только при завершении проекта.",
+    "text": "What is the most appropriate improvement to the control system?\n\nActual results are compared with the baseline only when the project is completed.",
     "correct": "B",
     "options": [
       {
@@ -2023,7 +2023,7 @@
     "id": "q69",
     "variant": 2,
     "number": 69,
-    "text": "What is the most appropriate next step?\n\nПосле месяца интервью нужно дополнить краткие персоны.",
+    "text": "What is the most appropriate next step?\n\nAfter a month of interviews, the short personas need to be expanded.",
     "correct": "E",
     "options": [
       {
@@ -2053,7 +2053,7 @@
     "id": "q70",
     "variant": 2,
     "number": 70,
-    "text": "What is the most appropriate response?\n\nСрочная замена половины задач сделает действующую Sprint Goal недостижимой.",
+    "text": "What is the most appropriate response?\n\nUrgently replacing half of the tasks would make the current Sprint Goal unachievable.",
     "correct": "C",
     "options": [
       {
@@ -2083,7 +2083,7 @@
     "id": "q71",
     "variant": 2,
     "number": 71,
-    "text": "What is the most likely root cause of the problem?\n\nМобильное приложение планировали как строительство; требования изменились, план устарел.",
+    "text": "What is the most likely root cause of the problem?\n\nA mobile application project was planned like a construction project; requirements changed and the plan became outdated.",
     "correct": "A",
     "options": [
       {
@@ -2113,7 +2113,7 @@
     "id": "q72",
     "variant": 2,
     "number": 72,
-    "text": "What is the most realistic expectation?\n\nМенеджеры отрицают проблемы, но PMO хочет немедленного совместного предвидения проблем.",
+    "text": "What is the most realistic expectation?\n\nThe managers deny that problems exist, but the PMO wants them to start jointly anticipating problems immediately.",
     "correct": "D",
     "options": [
       {
@@ -2143,7 +2143,7 @@
     "id": "q73",
     "variant": 2,
     "number": 73,
-    "text": "What is the new estimated project length?\n\nИсходная длительность 12 месяцев, SPI = 0.8.",
+    "text": "What is the new estimated project length?\n\nThe original project duration is 12 months, and SPI = 0.8.",
     "correct": "E",
     "options": [
       {
@@ -2173,7 +2173,7 @@
     "id": "q74",
     "variant": 2,
     "number": 74,
-    "text": "What is the next stage in the growth of their trust?\n\nРуководители перестали обвинять друг друга и признали свою ответственность.",
+    "text": "What is the next stage in the growth of their trust?\n\nThe managers have stopped blaming each other and have accepted responsibility.",
     "correct": "B",
     "options": [
       {
@@ -2203,7 +2203,7 @@
     "id": "q75",
     "variant": 2,
     "number": 75,
-    "text": "What is the next step in her path to organizational change?\n\nАналитик изучила Agile и уже применяет его в своей работе.",
+    "text": "What is the next step in her path to organizational change?\n\nThe analyst has studied Agile and is already applying it in her own work.",
     "correct": "D",
     "options": [
       {
@@ -2233,7 +2233,7 @@
     "id": "q76",
     "variant": 2,
     "number": 76,
-    "text": "What is this situation called?\n\nСпециалист должен одновременно закончить отчёт и участвовать в интервью в другом здании.",
+    "text": "What is this situation called?\n\nA specialist must finish a report and attend an interview in another building at the same time.",
     "correct": "A",
     "options": [
       {
@@ -2293,7 +2293,7 @@
     "id": "q78",
     "variant": 2,
     "number": 78,
-    "text": "What risk does this create?\n\nОдна персона объединяет студентов, пенсионеров, туристов и людей, ежедневно ездящих на работу.",
+    "text": "What risk does this create?\n\nA single persona combines students, pensioners, tourists and daily commuters.",
     "correct": "A",
     "options": [
       {
@@ -2323,7 +2323,7 @@
     "id": "q79",
     "variant": 2,
     "number": 79,
-    "text": "What role do these added statements play?\n\nДля платежа указано: сумма в тенге, обновление после оплаты, отображение на главном экране.",
+    "text": "What role do these added statements play?\n\nThe payment story specifies an amount in tenge, an update after payment and display on the home screen.",
     "correct": "B",
     "options": [
       {
@@ -2353,7 +2353,7 @@
     "id": "q80",
     "variant": 2,
     "number": 80,
-    "text": "What should be the main focus of corrective action?\n\nCPI = 1.1, SPI = 0.75: затраты эффективны, но есть отставание по графику.",
+    "text": "What should be the main focus of corrective action?\n\nCPI = 1.1 and SPI = 0.75: cost performance is efficient, but the project is behind schedule.",
     "correct": "D",
     "options": [
       {
@@ -2383,7 +2383,7 @@
     "id": "q81",
     "variant": 2,
     "number": 81,
-    "text": "What should the analyst do?\n\nПосле декомпозиции эпика появились 40 историй, включая устаревшие и противоречивые.",
+    "text": "What should the analyst do?\n\nDecomposing an epic has produced 40 stories, including outdated and contradictory ones.",
     "correct": "D",
     "options": [
       {
@@ -2413,7 +2413,7 @@
     "id": "q82",
     "variant": 2,
     "number": 82,
-    "text": "What should the analyst do?\n\nПерсоны созданы для дистанционного обучения; теперь занятия проходят в кампусе.",
+    "text": "What should the analyst do?\n\nThe personas were created for distance learning; classes now take place on campus.",
     "correct": "A",
     "options": [
       {
@@ -2443,7 +2443,7 @@
     "id": "q83",
     "variant": 2,
     "number": 83,
-    "text": "What should the Scrum Master ensure?\n\nМесячный Sprint: Review длится 6 часов, Daily Scrum — более 30 минут.",
+    "text": "What should the Scrum Master ensure?\n\nFor a one-month Sprint, the Sprint Review lasts six hours and the Daily Scrum lasts more than 30 minutes.",
     "correct": "B",
     "options": [
       {
@@ -2473,7 +2473,7 @@
     "id": "q84",
     "variant": 2,
     "number": 84,
-    "text": "What should the team do with these personas?\n\nПять персон, но бюджет первого релиза покрывает потребности только части из них.",
+    "text": "What should the team do with these personas?\n\nThere are five personas, but the budget for the first release covers the needs of only some of them.",
     "correct": "E",
     "options": [
       {
@@ -2533,7 +2533,7 @@
     "id": "q86",
     "variant": 2,
     "number": 86,
-    "text": "What was most likely missing?\n\nСистема разрешила запись в праздничные дни; ограничения не были определены.",
+    "text": "What was most likely missing?\n\nThe system allows appointments on public holidays because the restrictions were not defined.",
     "correct": "E",
     "options": [
       {
@@ -2563,7 +2563,7 @@
     "id": "q87",
     "variant": 2,
     "number": 87,
-    "text": "When does Scrum expect the team to adjust its plan and work?\n\nВ середине Sprint обнаружено, что платёжный API работает иначе, чем ожидалось.",
+    "text": "When does Scrum expect the team to adjust its plan and work?\n\nIn the middle of the Sprint, the team discovers that the payment API behaves differently than expected.",
     "correct": "B",
     "options": [
       {
@@ -2623,7 +2623,7 @@
     "id": "q89",
     "variant": 2,
     "number": 89,
-    "text": "Which action best addresses this limitation of user stories?\n\nВ backlog 900 историй, много устаревших и дубликатов.",
+    "text": "Which action best addresses this limitation of user stories?\n\nThe backlog contains 900 stories, including many outdated items and duplicates.",
     "correct": "C",
     "options": [
       {
@@ -2653,7 +2653,7 @@
     "id": "q90",
     "variant": 2,
     "number": 90,
-    "text": "Which activity is directly affected by user stories?\n\nКакая деятельность меняется при переходе к user stories?",
+    "text": "Which activity is directly affected by user stories?\n\nConsider which activity changes when a team adopts user stories.",
     "correct": "D",
     "options": [
       {
@@ -2683,7 +2683,7 @@
     "id": "q91",
     "variant": 2,
     "number": 91,
-    "text": "Which advantage of the traditional structure does this provide?\n\nКаждый сотрудник подчиняется только одному руководителю.",
+    "text": "Which advantage of the traditional structure does this provide?\n\nEach employee reports to only one manager.",
     "correct": "A",
     "options": [
       {
@@ -2713,7 +2713,7 @@
     "id": "q92",
     "variant": 2,
     "number": 92,
-    "text": "Which advantage of the traditional structure does this reflect?\n\nФинансовый отдел легко контролирует расходы подразделений.",
+    "text": "Which advantage of the traditional structure does this reflect?\n\nThe finance department can easily control departmental spending.",
     "correct": "B",
     "options": [
       {
@@ -2743,7 +2743,7 @@
     "id": "q93",
     "variant": 2,
     "number": 93,
-    "text": "Which advantage of this structure does this illustrate?\n\nВ проектной структуре менеджер распределяет работу и оценивает сотрудников.",
+    "text": "Which advantage of this structure does this illustrate?\n\nIn a projectized structure, the project manager assigns work and evaluates staff.",
     "correct": "E",
     "options": [
       {
@@ -2833,7 +2833,7 @@
     "id": "q96",
     "variant": 3,
     "number": 96,
-    "text": "Which agile principle does this decision apply?\n\nУбраны шесть редко используемых функций без потери бизнес-ценности.",
+    "text": "Which agile principle does this decision apply?\n\nSix rarely used features are removed without losing business value.",
     "correct": "E",
     "options": [
       {
@@ -2863,7 +2863,7 @@
     "id": "q97",
     "variant": 3,
     "number": 97,
-    "text": "Which agile principle points to the best improvement?\n\nДлинные email-переписки между Астаной и Шымкентом вызывают недопонимание.",
+    "text": "Which agile principle points to the best improvement?\n\nLong email exchanges between Astana and Shymkent cause misunderstandings.",
     "correct": "D",
     "options": [
       {
@@ -2893,7 +2893,7 @@
     "id": "q98",
     "variant": 3,
     "number": 98,
-    "text": "Which agile principle shows the weakness of this progress report?\n\n80% задач завершено, но пользователям пока нечего показать.",
+    "text": "Which agile principle shows the weakness of this progress report?\n\nAlthough 80% of the tasks are complete, there is still nothing to show users.",
     "correct": "B",
     "options": [
       {
@@ -2953,7 +2953,7 @@
     "id": "q100",
     "variant": 3,
     "number": 100,
-    "text": "Which arrangement is this, and what is its key weakness?\n\nПредставители отделов совместно решают задачи, но в конфликтах поддерживают свои подразделения.",
+    "text": "Which arrangement is this, and what is its key weakness?\n\nRepresentatives of different departments solve problems together, but support their own departments in conflicts.",
     "correct": "E",
     "options": [
       {
@@ -2983,7 +2983,7 @@
     "id": "q101",
     "variant": 3,
     "number": 101,
-    "text": "Which benefit of personas helps the analyst deal with this situation?\n\nРуководители отделов требуют, чтобы система соответствовала их личным привычкам.",
+    "text": "Which benefit of personas helps the analyst deal with this situation?\n\nDepartment heads demand that the system match their personal habits.",
     "correct": "A",
     "options": [
       {
@@ -3043,7 +3043,7 @@
     "id": "q103",
     "variant": 3,
     "number": 103,
-    "text": "Which change best aligns it with Scrum?\n\nDaily Scrum длится 45 минут и служит отчётом начальнику.",
+    "text": "Which change best aligns it with Scrum?\n\nThe Daily Scrum lasts 45 minutes and serves as a status report to the manager.",
     "correct": "C",
     "options": [
       {
@@ -3073,7 +3073,7 @@
     "id": "q104",
     "variant": 3,
     "number": 104,
-    "text": "Which characteristic of a Scrum Team does this conflict with most directly?\n\nНачальник назначает разработчикам ежедневные задачи и определяет способ выполнения.",
+    "text": "Which characteristic of a Scrum Team does this conflict with most directly?\n\nThe department head assigns daily tasks to the Developers and decides how they should perform them.",
     "correct": "B",
     "options": [
       {
@@ -3133,7 +3133,7 @@
     "id": "q106",
     "variant": 3,
     "number": 106,
-    "text": "Which concept is being described?\n\nОписано поведение, связанное с должностью, независимо от того, кто её занимает.",
+    "text": "Which concept is being described?\n\nThe description concerns behavior associated with a position, regardless of who occupies it.",
     "correct": "D",
     "options": [
       {
@@ -3163,7 +3163,7 @@
     "id": "q107",
     "variant": 3,
     "number": 107,
-    "text": "Which conclusion is most appropriate for senior management?\n\nТестировщики и разработчики постоянно обвиняют друг друга в срывах требований и сроков.",
+    "text": "Which conclusion is most appropriate for senior management?\n\nTesters and Developers constantly blame each other for failures to meet requirements and deadlines.",
     "correct": "C",
     "options": [
       {
@@ -3193,7 +3193,7 @@
     "id": "q108",
     "variant": 3,
     "number": 108,
-    "text": "Which control requirement failed most directly?\n\nЗаказчик и подрядчик по-разному поняли объём работ: добавлены ненужные функции, пропущены необходимые.",
+    "text": "Which control requirement failed most directly?\n\nThe customer and contractor understood the scope differently: unnecessary features were added and necessary ones were omitted.",
     "correct": "A",
     "options": [
       {
@@ -3223,7 +3223,7 @@
     "id": "q109",
     "variant": 3,
     "number": 109,
-    "text": "Which description of the Scrum Master shows that this behavior is wrong?\n\nScrum Master утверждает отпуска, задаёт индивидуальные KPI и оценивает сотрудников.",
+    "text": "Which description of the Scrum Master shows that this behavior is wrong?\n\nThe Scrum Master approves leave, sets individual KPIs and evaluates employees.",
     "correct": "B",
     "options": [
       {
@@ -3253,7 +3253,7 @@
     "id": "q110",
     "variant": 3,
     "number": 110,
-    "text": "Which disadvantage does this illustrate?\n\nСогласование с четырьмя отделами задерживает решение на несколько недель.",
+    "text": "Which disadvantage does this illustrate?\n\nObtaining approval from four departments delays a decision by several weeks.",
     "correct": "D",
     "options": [
       {
@@ -3283,7 +3283,7 @@
     "id": "q111",
     "variant": 3,
     "number": 111,
-    "text": "Which entry correctly states the role, the needed feature and the value?\n\nНужно выбрать user story с ролью, функцией и ценностью.",
+    "text": "Which entry correctly states the role, the needed feature and the value?\n\nSelect a user story that includes a role, a feature and its value.",
     "correct": "D",
     "options": [
       {
@@ -3313,7 +3313,7 @@
     "id": "q112",
     "variant": 3,
     "number": 112,
-    "text": "Which foundation of Scrum does this behavior reflect most directly?\n\nСледующие функции выбирают по наблюдениям за использованием предыдущего релиза.",
+    "text": "Which foundation of Scrum does this behavior reflect most directly?\n\nThe next features are selected based on observations of how people use the previous release.",
     "correct": "C",
     "options": [
       {
@@ -3343,7 +3343,7 @@
     "id": "q113",
     "variant": 3,
     "number": 113,
-    "text": "Which idea underlying Scrum does this change reflect?\n\nУбраны ненужные согласования и документы; оставлены действия, создающие ценность.",
+    "text": "Which idea underlying Scrum does this change reflect?\n\nUnnecessary approvals and documents are removed; only activities that create value are retained.",
     "correct": "A",
     "options": [
       {
@@ -3373,7 +3373,7 @@
     "id": "q114",
     "variant": 3,
     "number": 114,
-    "text": "Which implementation requirement is missing?\n\nВ матричной структуре вознаграждают только за цели функционального отдела.",
+    "text": "Which implementation requirement is missing?\n\nIn a matrix structure, rewards are based only on functional department goals.",
     "correct": "D",
     "options": [
       {
@@ -3463,7 +3463,7 @@
     "id": "q117",
     "variant": 3,
     "number": 117,
-    "text": "Which is the strongest argument against this plan?\n\nКоманда хочет использовать персоны как единственный источник знаний о пользователях.",
+    "text": "Which is the strongest argument against this plan?\n\nThe team wants to use personas as its only source of knowledge about users.",
     "correct": "A",
     "options": [
       {
@@ -3523,7 +3523,7 @@
     "id": "q119",
     "variant": 3,
     "number": 119,
-    "text": "Which leadership task should the leader focus on first?\n\nСотрудники скрывают неудачные прототипы, опасаясь критики.",
+    "text": "Which leadership task should the leader focus on first?\n\nEmployees hide unsuccessful prototypes because they fear criticism.",
     "correct": "D",
     "options": [
       {
@@ -3553,7 +3553,7 @@
     "id": "q120",
     "variant": 3,
     "number": 120,
-    "text": "Which Lean core concept does this reflect?\n\nРазработчики сами выбирают технические шаги и инструменты.",
+    "text": "Which Lean core concept does this reflect?\n\nThe Developers choose their own technical steps and tools.",
     "correct": "E",
     "options": [
       {
@@ -3583,7 +3583,7 @@
     "id": "q121",
     "variant": 3,
     "number": 121,
-    "text": "Which Lean core concept does this reflect?\n\nРаботу проверяют и тестируют сразу на каждой стадии разработки.",
+    "text": "Which Lean core concept does this reflect?\n\nWork is reviewed and tested immediately at every stage of development.",
     "correct": "D",
     "options": [
       {
@@ -3613,7 +3613,7 @@
     "id": "q122",
     "variant": 3,
     "number": 122,
-    "text": "Which Lean core concept is the team mainly applying?\n\nЕженедельные испытания прототипов с гражданами и немедленное использование обратной связи.",
+    "text": "Which Lean core concept is the team mainly applying?\n\nPrototypes are tested with citizens every week, and their feedback is used immediately.",
     "correct": "C",
     "options": [
       {
@@ -3643,7 +3643,7 @@
     "id": "q123",
     "variant": 3,
     "number": 123,
-    "text": "Which Lean core concept was neglected?\n\nРазработка ускорилась, но общая поставка замедлилась из-за тестирования и развёртывания.",
+    "text": "Which Lean core concept was neglected?\n\nDevelopment has become faster, but overall delivery has slowed down because of testing and deployment.",
     "correct": "C",
     "options": [
       {
@@ -3673,7 +3673,7 @@
     "id": "q124",
     "variant": 3,
     "number": 124,
-    "text": "Which Lean waste does this describe?\n\nКаждый разработчик работает над тремя проектами и теряет время при переключении.",
+    "text": "Which Lean waste does this describe?\n\nEach Developer works on three projects and loses time when switching between them.",
     "correct": "C",
     "options": [
       {
@@ -3703,7 +3703,7 @@
     "id": "q125",
     "variant": 3,
     "number": 125,
-    "text": "Which Lean waste does this represent?\n\nКаждое изменение требует четырёх подписей; отчёты никто не читает.",
+    "text": "Which Lean waste does this represent?\n\nEvery change requires four signatures, and no one reads the reports.",
     "correct": "B",
     "options": [
       {
@@ -3733,7 +3733,7 @@
     "id": "q126",
     "variant": 3,
     "number": 126,
-    "text": "Which Lean waste does this represent?\n\nБез запроса добавлен анимированный 3D-dashboard, которым никто не пользуется.",
+    "text": "Which Lean waste does this represent?\n\nAn animated 3D dashboard was added without being requested, and no one uses it.",
     "correct": "D",
     "options": [
       {
@@ -3763,7 +3763,7 @@
     "id": "q127",
     "variant": 3,
     "number": 127,
-    "text": "Which Lean waste is most evident?\n\nПередача дизайна, кода и тестирования между командами в разных городах требует дополнительных объяснений.",
+    "text": "Which Lean waste is most evident?\n\nHanding designs, code and testing work between teams in different cities requires additional explanations.",
     "correct": "A",
     "options": [
       {
@@ -3793,7 +3793,7 @@
     "id": "q128",
     "variant": 3,
     "number": 128,
-    "text": "Which Lean waste is most evident?\n\nГотовые спецификации месяцами ждут разработки, а код неделями не тестируется.",
+    "text": "Which Lean waste is most evident?\n\nCompleted specifications wait for development for months, and code remains untested for weeks.",
     "correct": "A",
     "options": [
       {
@@ -3819,7 +3819,7 @@
     "id": "q129",
     "variant": 3,
     "number": 129,
-    "text": "Which limitation of personas does this illustrate?\n\nПосле создания персон команда перестала общаться с реальными пользователями.",
+    "text": "Which limitation of personas does this illustrate?\n\nAfter creating personas, the team stops communicating with real users.",
     "correct": "A",
     "options": [
       {
@@ -3845,7 +3845,7 @@
     "id": "q130",
     "variant": 3,
     "number": 130,
-    "text": "Which limitation of user stories does this reflect?\n\nИстории описывают функцию, но не содержат части «so that».",
+    "text": "Which limitation of user stories does this reflect?\n\nThe stories describe a feature but omit the \"so that\" part.",
     "correct": "C",
     "options": [
       {
@@ -3991,7 +3991,7 @@
     "id": "q135",
     "variant": 3,
     "number": 135,
-    "text": "Which model best explains this pattern?\n\nПервые четыре недели почти нет прогресса; в середине восьминедельного срока команда резко меняет подход.",
+    "text": "Which model best explains this pattern?\n\nThere is little progress during the first four weeks; halfway through the eight-week deadline, the team abruptly changes its approach.",
     "correct": "C",
     "options": [
       {
@@ -4051,7 +4051,7 @@
     "id": "q137",
     "variant": 3,
     "number": 137,
-    "text": "Which organizational form is most worth considering?\n\nFintech: сложные продукты с коротким жизненным циклом.",
+    "text": "Which organizational form is most worth considering?\n\nA fintech company develops complex products with short life cycles.",
     "correct": "D",
     "options": [
       {
@@ -4171,7 +4171,7 @@
     "id": "q141",
     "variant": 3,
     "number": 141,
-    "text": "Which persona format best fits this need?\n\nК завтрашней встрече нужен быстрый обзор пользователей; времени на исследования нет.",
+    "text": "Which persona format best fits this need?\n\nA quick overview of users is needed for tomorrow's meeting, with no time available for research.",
     "correct": "C",
     "options": [
       {
@@ -4201,7 +4201,7 @@
     "id": "q142",
     "variant": 4,
     "number": 142,
-    "text": "Which phase of the operating cycle does this represent?\n\nЕжемесячный доклад о статусе, отклонениях и прогнозах заказчику и руководству.",
+    "text": "Which phase of the operating cycle does this represent?\n\nEvery month, status, variances and forecasts are reported to the customer and management.",
     "correct": "B",
     "options": [
       {
@@ -4231,7 +4231,7 @@
     "id": "q143",
     "variant": 4,
     "number": 143,
-    "text": "Which planning model does this instruction reflect?\n\nОбъём работ фиксирован; время и бюджет оцениваются под него.",
+    "text": "Which planning model does this instruction reflect?\n\nThe scope is fixed; time and budget are estimated to meet that scope.",
     "correct": "B",
     "options": [
       {
@@ -4287,7 +4287,7 @@
     "id": "q145",
     "variant": 4,
     "number": 145,
-    "text": "Which principle should guide the next step in organizing project work?\n\nКоординаторы в функциональных отделах ставят дела отдела выше проекта.",
+    "text": "Which principle should guide the next step in organizing project work?\n\nCoordinators in functional departments put departmental work ahead of the project.",
     "correct": "A",
     "options": [
       {
@@ -4317,7 +4317,7 @@
     "id": "q146",
     "variant": 4,
     "number": 146,
-    "text": "Which project characteristic most strongly favors an agile approach?\n\nНужно выбрать проекты, подходящие для Agile.",
+    "text": "Which project characteristic most strongly favors an agile approach?\n\nSelect projects that are suitable for an agile approach.",
     "correct": "C",
     "options": [
       {
@@ -4377,7 +4377,7 @@
     "id": "q148",
     "variant": 4,
     "number": 148,
-    "text": "Which requirement of an effective control system was missing?\n\nE-government portal: прогноз стоимости оставшихся работ не обновляли.",
+    "text": "Which requirement of an effective control system was missing?\n\nFor an e-government portal, the forecast cost of the remaining work was not updated.",
     "correct": "B",
     "options": [
       {
@@ -4407,7 +4407,7 @@
     "id": "q149",
     "variant": 4,
     "number": 149,
-    "text": "Which requirement of effective cost and schedule control is weakest here?\n\nЧасы и расходы вносят в конце квартала, через два месяца после выполнения работ.",
+    "text": "Which requirement of effective cost and schedule control is weakest here?\n\nHours and expenses are recorded at the end of the quarter, two months after the work was performed.",
     "correct": "B",
     "options": [
       {
@@ -4437,7 +4437,7 @@
     "id": "q150",
     "variant": 4,
     "number": 150,
-    "text": "Which response is consistent with Scrum?\n\nПредлагают отдельную подкоманду тестирования со своим начальником.",
+    "text": "Which response is consistent with Scrum?\n\nA separate testing subteam with its own manager is proposed.",
     "correct": "D",
     "options": [
       {
@@ -4467,7 +4467,7 @@
     "id": "q151",
     "variant": 4,
     "number": 151,
-    "text": "Which response reflects the soundest organizational thinking?\n\nCEO хочет одну идеальную структуру навсегда; результаты проектов неодинаковы.",
+    "text": "Which response reflects the soundest organizational thinking?\n\nThe CEO wants one ideal structure that will work forever, although project results vary.",
     "correct": "A",
     "options": [
       {
@@ -4497,7 +4497,7 @@
     "id": "q152",
     "variant": 4,
     "number": 152,
-    "text": "Which Scrum event is taking place?\n\nКоманда и стейкхолдеры пробуют новые функции и обсуждают изменение Product Backlog.",
+    "text": "Which Scrum event is taking place?\n\nThe team and stakeholders try out new features and discuss changes to the Product Backlog.",
     "correct": "D",
     "options": [
       {
@@ -4527,7 +4527,7 @@
     "id": "q153",
     "variant": 4,
     "number": 153,
-    "text": "Which Scrum Team characteristic is missing?\n\nUX и базы данных делает другой отдел; команда постоянно ждёт.",
+    "text": "Which Scrum Team characteristic is missing?\n\nAnother department handles UX and databases, so the team must constantly wait.",
     "correct": "C",
     "options": [
       {
@@ -4617,7 +4617,7 @@
     "id": "q156",
     "variant": 4,
     "number": 156,
-    "text": "Which servant leader duty is she performing?\n\nЛидер просит направлять через неё запросы на внеплановые встречи.",
+    "text": "Which servant leader duty is she performing?\n\nThe leader asks that requests for unplanned meetings be routed through her.",
     "correct": "D",
     "options": [
       {
@@ -4647,7 +4647,7 @@
     "id": "q157",
     "variant": 4,
     "number": 157,
-    "text": "Which source should she rely on first?\n\nНужна основа для regression и exploratory tests истории «Block a lost card».",
+    "text": "Which source should she rely on first?\n\nA basis is needed for regression and exploratory tests for the \"Block a lost card\" story.",
     "correct": "B",
     "options": [
       {
@@ -4677,7 +4677,7 @@
     "id": "q158",
     "variant": 4,
     "number": 158,
-    "text": "Which stage has the team most likely reached?\n\nПосле споров команда начала сотрудничать и разделять общие нормы.",
+    "text": "Which stage has the team most likely reached?\n\nAfter disagreements, the team begins to cooperate and share common norms.",
     "correct": "E",
     "options": [
       {
@@ -4707,7 +4707,7 @@
     "id": "q159",
     "variant": 4,
     "number": 159,
-    "text": "Which stage of group development is the team in?\n\nУчастники спорят о подходе; два разработчика соперничают за лидерство.",
+    "text": "Which stage of group development is the team in?\n\nTeam members argue about the approach, and two Developers compete for leadership.",
     "correct": "C",
     "options": [
       {
@@ -4737,7 +4737,7 @@
     "id": "q160",
     "variant": 4,
     "number": 160,
-    "text": "Which stage of group development is this?\n\nВсе работы завершены; команда прощается, участники грустят.",
+    "text": "Which stage of group development is this?\n\nAll work has been completed; team members say goodbye and feel sad.",
     "correct": "E",
     "options": [
       {
@@ -4767,7 +4767,7 @@
     "id": "q161",
     "variant": 4,
     "number": 161,
-    "text": "Which statement about the variances is correct?\n\nBCWS = 1,200, BCWP = 1,000, ACWP = 1,100 часов.",
+    "text": "Which statement about the variances is correct?\n\nBCWS = 1,200, BCWP = 1,000 and ACWP = 1,100 hours.",
     "correct": "C",
     "options": [
       {
@@ -4797,7 +4797,7 @@
     "id": "q162",
     "variant": 4,
     "number": 162,
-    "text": "Which statement best corrects this view?\n\nРуководитель PMO считает планирование независимым от последующего контроля затрат.",
+    "text": "Which statement best corrects this view?\n\nThe head of the PMO considers planning independent of subsequent cost control.",
     "correct": "E",
     "options": [
       {
@@ -4827,7 +4827,7 @@
     "id": "q163",
     "variant": 4,
     "number": 163,
-    "text": "Which statement best corrects this view?\n\nProduct Owner считает персоны просто названиями ролей Admin или Driver.",
+    "text": "Which statement best corrects this view?\n\nThe Product Owner thinks personas are simply role names such as Admin or Driver.",
     "correct": "D",
     "options": [
       {
@@ -4857,7 +4857,7 @@
     "id": "q164",
     "variant": 4,
     "number": 164,
-    "text": "Which statement correctly describes the project's status?\n\nBCWS = 300, BCWP = 350, ACWP = 400 тыс. долларов.",
+    "text": "Which statement correctly describes the project's status?\n\nBCWS = 300, BCWP = 350 and ACWP = 400, all in thousands of dollars.",
     "correct": "A",
     "options": [
       {
@@ -4887,7 +4887,7 @@
     "id": "q165",
     "variant": 4,
     "number": 165,
-    "text": "Which statement is an advantage of that structure?\n\nБанк рассматривает сохранение классической функциональной структуры.",
+    "text": "Which statement is an advantage of that structure?\n\nA bank is considering retaining its classical functional structure.",
     "correct": "D",
     "options": [
       {
@@ -4917,7 +4917,7 @@
     "id": "q166",
     "variant": 4,
     "number": 166,
-    "text": "Which statement is correct?\n\nДля месячного Sprint назначены Review на 4 часа и Retrospective на 4 часа.",
+    "text": "Which statement is correct?\n\nFor a one-month Sprint, the Sprint Review and Sprint Retrospective are each scheduled for four hours.",
     "correct": "B",
     "options": [
       {
@@ -4947,7 +4947,7 @@
     "id": "q167",
     "variant": 4,
     "number": 167,
-    "text": "Which statement is correct?\n\nРазработчик считает, что истории пишет только Product Owner и каждый backlog item обязан быть историей.",
+    "text": "Which statement is correct?\n\nA Developer believes that only the Product Owner writes stories and that every backlog item must be a story.",
     "correct": "B",
     "options": [
       {
@@ -5007,7 +5007,7 @@
     "id": "q169",
     "variant": 4,
     "number": 169,
-    "text": "Which strength of user stories does this illustrate?\n\nСовместное написание историй улучшило понимание и вовлечённость сотрудников банка.",
+    "text": "Which strength of user stories does this illustrate?\n\nWriting stories together improves understanding and engagement among bank employees.",
     "correct": "C",
     "options": [
       {
@@ -5037,7 +5037,7 @@
     "id": "q170",
     "variant": 4,
     "number": 170,
-    "text": "Which technique best helps the team understand value from the taxpayer's point of view?\n\nРазработчикам налогового приложения запрещено напрямую встречаться с налогоплательщиками.",
+    "text": "Which technique best helps the team understand value from the taxpayer's point of view?\n\nThe Developers of a tax application are not allowed to meet taxpayers directly.",
     "correct": "A",
     "options": [
       {
@@ -5213,7 +5213,7 @@
     "id": "q176",
     "variant": 4,
     "number": 176,
-    "text": "Which type of process best fits this project?\n\nТиповая школа по многократно использованному проекту; шаги заранее известны.",
+    "text": "Which type of process best fits this project?\n\nA standard school is being built using a design that has been used many times; the steps are known in advance.",
     "correct": "E",
     "options": [
       {
@@ -5243,7 +5243,7 @@
     "id": "q177",
     "variant": 4,
     "number": 177,
-    "text": "Which version is the correct equivalent?\n\nПереформулирование истории о записи в ЦОН, чтобы не ждать в очереди.",
+    "text": "Which version is the correct equivalent?\n\nRephrase a story about booking an appointment at a public service center to avoid waiting in a queue.",
     "correct": "B",
     "options": [
       {
@@ -5273,7 +5273,7 @@
     "id": "q178",
     "variant": 4,
     "number": 178,
-    "text": "Which weakness of the traditional structure does this show?\n\nКлиент не может найти единого ответственного за проект.",
+    "text": "Which weakness of the traditional structure does this show?\n\nThe customer cannot find a single person responsible for the project.",
     "correct": "E",
     "options": [
       {
@@ -5303,7 +5303,7 @@
     "id": "q179",
     "variant": 4,
     "number": 179,
-    "text": "Which weakness of the traditional structure is this?\n\nСпоры решаются в пользу самого большого и влиятельного отдела.",
+    "text": "Which weakness of the traditional structure is this?\n\nDisputes are resolved in favor of the largest and most influential department.",
     "correct": "C",
     "options": [
       {
@@ -5333,7 +5333,7 @@
     "id": "q180",
     "variant": 4,
     "number": 180,
-    "text": "Which XP practice is being applied?\n\nКод упрощён без изменения поведения и добавления функций.",
+    "text": "Which XP practice is being applied?\n\nThe code is simplified without changing its behavior or adding features.",
     "correct": "E",
     "options": [
       {
@@ -5363,7 +5363,7 @@
     "id": "q181",
     "variant": 4,
     "number": 181,
-    "text": "Which XP practice is the team using?\n\nАвтоматические тесты пишут до кода расчёта налога.",
+    "text": "Which XP practice is the team using?\n\nAutomated tests are written before the tax calculation code.",
     "correct": "D",
     "options": [
       {
@@ -5393,7 +5393,7 @@
     "id": "q182",
     "variant": 4,
     "number": 182,
-    "text": "Which XP practice would best address this problem?\n\nКод объединяют раз в месяц и долго исправляют несовместимости.",
+    "text": "Which XP practice would best address this problem?\n\nCode is integrated once a month, and resolving incompatibilities takes a long time.",
     "correct": "A",
     "options": [
       {
@@ -5423,7 +5423,7 @@
     "id": "q183",
     "variant": 4,
     "number": 183,
-    "text": "Which XP role does this person hold?\n\nЧеловек представляет бизнес, задаёт требования и приоритеты, подтверждает результат.",
+    "text": "Which XP role does this person hold?\n\nOne person represents the business, sets requirements and priorities, and confirms the result.",
     "correct": "B",
     "options": [
       {
@@ -5483,7 +5483,7 @@
     "id": "q185",
     "variant": 4,
     "number": 185,
-    "text": "Why does this typically happen in such structures?\n\nСпециалиста удерживают в проекте даже после завершения его задач.",
+    "text": "Why does this typically happen in such structures?\n\nA specialist is kept on the project even after her tasks have been completed.",
     "correct": "A",
     "options": [
       {
@@ -5569,7 +5569,7 @@
     "id": "q188",
     "variant": 4,
     "number": 188,
-    "text": "Why is the traditional structure a reasonable fit here?\n\nПроизводитель массово выпускает стандартную продукцию и редко выполняет разовые проекты.",
+    "text": "Why is the traditional structure a reasonable fit here?\n\nA manufacturer mass-produces standard products and rarely carries out one-off projects.",
     "correct": "B",
     "options": [
       {
