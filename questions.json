@@ -1792,7 +1792,7 @@
       },
       {
         "key": "E",
-        "text": "To rank personas by their expected benefit. SHORT ANSWER: D. To make it relatable and build empathy."
+        "text": "To rank personas by their expected benefit."
       }
     ],
     "correct": "D"
@@ -1821,7 +1821,7 @@
       },
       {
         "key": "E",
-        "text": "Its effort can be estimated from past experience. SHORT ANSWER: A. It can be delivered apart from other features."
+        "text": "Its effort can be estimated from past experience."
       }
     ],
     "correct": "A"
@@ -1850,7 +1850,7 @@
       },
       {
         "key": "E",
-        "text": "As a product roadmap. SHORT ANSWER: B. As acceptance criteria."
+        "text": "As a product roadmap."
       }
     ],
     "correct": "B"
@@ -1879,7 +1879,7 @@
       },
       {
         "key": "E",
-        "text": "Disciplined budgeting and authorization of spending. SHORT ANSWER: E. Disciplined budgeting and authorization of spending."
+        "text": "Disciplined budgeting and authorization of spending."
       }
     ],
     "correct": "E"
@@ -1908,7 +1908,7 @@
       },
       {
         "key": "E",
-        "text": "Cost data collection and reporting. SHORT ANSWER: E. Cost data collection and reporting."
+        "text": "Cost data collection and reporting."
       }
     ],
     "correct": "E"
@@ -4054,7 +4054,7 @@
       },
       {
         "key": "E",
-        "text": "The performance budget. SHORT ANSWER: C. The undistributed budget."
+        "text": "The performance budget."
       }
     ],
     "correct": "C"
@@ -4083,7 +4083,7 @@
       },
       {
         "key": "E",
-        "text": "It replaces periodic re-estimation of the cost. SHORT ANSWER: B. It shows deviations from plan while still small."
+        "text": "It replaces periodic re-estimation of the cost."
       }
     ],
     "correct": "B"
@@ -4112,7 +4112,7 @@
       },
       {
         "key": "E",
-        "text": "Cost, schedule, technical performance and risk. SHORT ANSWER: C. Needs, proximity, attraction, goals and economics."
+        "text": "Cost, schedule, technical performance and risk."
       }
     ],
     "correct": "C"
@@ -4141,7 +4141,7 @@
       },
       {
         "key": "E",
-        "text": "Authority. SHORT ANSWER: A. Accountability."
+        "text": "Authority."
       }
     ],
     "correct": "A"
@@ -4170,7 +4170,7 @@
       },
       {
         "key": "E",
-        "text": "The project manager's. SHORT ANSWER: C. The functional workers'."
+        "text": "The project manager's."
       }
     ],
     "correct": "C"
@@ -4199,7 +4199,7 @@
       },
       {
         "key": "E",
-        "text": "Resolving conflicts between all projects. SHORT ANSWER: A. The overall success of the project."
+        "text": "Resolving conflicts between all projects."
       }
     ],
     "correct": "A"
@@ -4228,7 +4228,7 @@
       },
       {
         "key": "E",
-        "text": "Working software over comprehensive documentation. SHORT ANSWER: B. Individuals and interactions over processes and tools."
+        "text": "Working software over comprehensive documentation."
       }
     ],
     "correct": "B"
@@ -4257,7 +4257,7 @@
       },
       {
         "key": "E",
-        "text": "Show every work item on a shared, visible board. SHORT ANSWER: C. Write down how work is done so all can discuss it."
+        "text": "Show every work item on a shared, visible board."
       }
     ],
     "correct": "C"
@@ -4286,7 +4286,7 @@
       },
       {
         "key": "E",
-        "text": "Demonstrate control. SHORT ANSWER: E. Demonstrate control."
+        "text": "Demonstrate control."
       }
     ],
     "correct": "E"
@@ -4315,7 +4315,7 @@
       },
       {
         "key": "E",
-        "text": "The team's work, actions and behavior. SHORT ANSWER: E. The team's work, actions and behavior."
+        "text": "The team's work, actions and behavior."
       }
     ],
     "correct": "E"
@@ -4344,7 +4344,7 @@
       },
       {
         "key": "E",
-        "text": "Fifteen minutes. SHORT ANSWER: A. Eight hours."
+        "text": "Fifteen minutes."
       }
     ],
     "correct": "A"
@@ -4373,7 +4373,7 @@
       },
       {
         "key": "E",
-        "text": "The Product Owner, who orders the items. SHORT ANSWER: D. The Developers who will do the work."
+        "text": "The Product Owner, who orders the items."
       }
     ],
     "correct": "D"
@@ -4402,7 +4402,7 @@
       },
       {
         "key": "E",
-        "text": "Short template. SHORT ANSWER: B. Differentiators."
+        "text": "Short template."
       }
     ],
     "correct": "B"
@@ -4431,7 +4431,7 @@
       },
       {
         "key": "E",
-        "text": "It shows the value it brings to the customer. SHORT ANSWER: C. A stakeholder can validate it objectively."
+        "text": "It shows the value it brings to the customer."
       }
     ],
     "correct": "C"
@@ -4460,7 +4460,7 @@
       },
       {
         "key": "E",
-        "text": "The name of the main persona. SHORT ANSWER: D. An active-verb goal phrase."
+        "text": "The name of the main persona."
       }
     ],
     "correct": "D"
@@ -4489,7 +4489,7 @@
       },
       {
         "key": "E",
-        "text": "Good estimating of labor and costs. SHORT ANSWER: B. Timely accounting of progress and costs."
+        "text": "Good estimating of labor and costs."
       }
     ],
     "correct": "B"
@@ -4518,7 +4518,7 @@
       },
       {
         "key": "E",
-        "text": "Work authorization and release. SHORT ANSWER: B. Customer and management reporting."
+        "text": "Work authorization and release."
       }
     ],
     "correct": "B"
@@ -4547,7 +4547,7 @@
       },
       {
         "key": "E",
-        "text": "Under budget by 10 and exactly on schedule. SHORT ANSWER: E. Under budget by 10 and exactly on schedule."
+        "text": "Under budget by 10 and exactly on schedule."
       }
     ],
     "correct": "E"
@@ -4576,7 +4576,7 @@
       },
       {
         "key": "E",
-        "text": "Releasing the management reserve. SHORT ANSWER: D. Improving the timeliness of physical progress."
+        "text": "Releasing the management reserve."
       }
     ],
     "correct": "D"
@@ -4605,7 +4605,7 @@
       },
       {
         "key": "E",
-        "text": "15 months. SHORT ANSWER: E. 15 months."
+        "text": "15 months."
       }
     ],
     "correct": "E"
@@ -4634,7 +4634,7 @@
       },
       {
         "key": "E",
-        "text": "Adjourning. SHORT ANSWER: E. Adjourning."
+        "text": "Adjourning."
       }
     ],
     "correct": "E"
@@ -4663,7 +4663,7 @@
       },
       {
         "key": "E",
-        "text": "The analyst has joined an informal interest group. SHORT ANSWER: A. One role can be perceived in up to three ways."
+        "text": "The analyst has joined an informal interest group."
       }
     ],
     "correct": "A"
@@ -4692,7 +4692,7 @@
       },
       {
         "key": "E",
-        "text": "Staff satisfaction has nothing to do with structure. SHORT ANSWER: D. Met targets can still hide a structural mismatch."
+        "text": "Staff satisfaction has nothing to do with structure."
       }
     ],
     "correct": "D"
@@ -4721,7 +4721,7 @@
       },
       {
         "key": "E",
-        "text": "Escalating the problem to the general manager. SHORT ANSWER: B. Meeting face-to-face to solve the problem."
+        "text": "Escalating the problem to the general manager."
       }
     ],
     "correct": "B"
@@ -4750,7 +4750,7 @@
       },
       {
         "key": "E",
-        "text": "Decisions are balanced across all functional groups. SHORT ANSWER: D. Vertical communication channels are well established."
+        "text": "Decisions are balanced across all functional groups."
       }
     ],
     "correct": "D"
@@ -4779,7 +4779,7 @@
       },
       {
         "key": "E",
-        "text": "Communication channels are poorly established. SHORT ANSWER: C. Decisions favor the strongest units."
+        "text": "Communication channels are poorly established."
       }
     ],
     "correct": "C"
@@ -4808,7 +4808,7 @@
       },
       {
         "key": "E",
-        "text": "The liaison department resolves it alone. SHORT ANSWER: C. It is referred to upper management."
+        "text": "The liaison department resolves it alone."
       }
     ],
     "correct": "C"
@@ -4837,7 +4837,7 @@
       },
       {
         "key": "E",
-        "text": "A functional manager lends the analyst part time. SHORT ANSWER: D. Each project keeps its own full-time analyst."
+        "text": "A functional manager lends the analyst part time."
       }
     ],
     "correct": "D"
@@ -4866,7 +4866,7 @@
       },
       {
         "key": "E",
-        "text": "Dedicated staff, line authority and merit reviews. SHORT ANSWER: C. Training, open communication and role definitions."
+        "text": "Dedicated staff, line authority and merit reviews."
       }
     ],
     "correct": "C"
@@ -4895,7 +4895,7 @@
       },
       {
         "key": "E",
-        "text": "They hold formal management positions. SHORT ANSWER: C. They apply expertise in analysis and development."
+        "text": "They hold formal management positions."
       }
     ],
     "correct": "C"
@@ -4924,7 +4924,7 @@
       },
       {
         "key": "E",
-        "text": "It has reached full organizational agility. SHORT ANSWER: A. It is doing agile without being agile."
+        "text": "It has reached full organizational agility."
       }
     ],
     "correct": "A"
@@ -4953,7 +4953,7 @@
       },
       {
         "key": "E",
-        "text": "Welcome changing requirements, even late. SHORT ANSWER: E. Welcome changing requirements, even late. DETAILED EXPLANATION"
+        "text": "Welcome changing requirements, even late."
       }
     ],
     "correct": "E"
@@ -4982,7 +4982,7 @@
       },
       {
         "key": "E",
-        "text": "Programmer. SHORT ANSWER: B. Customer."
+        "text": "Programmer."
       }
     ],
     "correct": "B"
@@ -5011,7 +5011,7 @@
       },
       {
         "key": "E",
-        "text": "Extra processes. SHORT ANSWER: D. Extra features."
+        "text": "Extra processes."
       }
     ],
     "correct": "D"
@@ -5040,7 +5040,7 @@
       },
       {
         "key": "E",
-        "text": "Deliver fast. SHORT ANSWER: D. Build quality in."
+        "text": "Deliver fast."
       }
     ],
     "correct": "D"
@@ -5069,7 +5069,7 @@
       },
       {
         "key": "E",
-        "text": "As a matter to settle outside the team. SHORT ANSWER: A. As a positive step in team development."
+        "text": "As a matter to settle outside the team."
       }
     ],
     "correct": "A"
@@ -5098,7 +5098,7 @@
       },
       {
         "key": "E",
-        "text": "At the next Sprint Retrospective, after discussion. SHORT ANSWER: B. As soon as possible, to minimize further deviation."
+        "text": "At the next Sprint Retrospective, after discussion."
       }
     ],
     "correct": "B"
@@ -5127,7 +5127,7 @@
       },
       {
         "key": "E",
-        "text": "Holding each other accountable. SHORT ANSWER: E. Holding each other accountable."
+        "text": "Holding each other accountable."
       }
     ],
     "correct": "E"
@@ -5156,7 +5156,7 @@
       },
       {
         "key": "E",
-        "text": "The whole organization by vote. SHORT ANSWER: C. The Product Owner."
+        "text": "The whole organization by vote."
       }
     ],
     "correct": "C"
@@ -5185,7 +5185,7 @@
       },
       {
         "key": "E",
-        "text": "It is outside the Scrum Master's accountability entirely. SHORT ANSWER: C. It is how the Scrum Master serves the organization."
+        "text": "It is outside the Scrum Master's accountability entirely."
       }
     ],
     "correct": "C"
@@ -5214,7 +5214,7 @@
       },
       {
         "key": "E",
-        "text": "Any member of the Scrum Team. SHORT ANSWER: A. Only the Product Owner."
+        "text": "Any member of the Scrum Team."
       }
     ],
     "correct": "A"
@@ -5243,7 +5243,7 @@
       },
       {
         "key": "E",
-        "text": "Yes; plan changes are made only at Sprint Planning. SHORT ANSWER: A. No; Developers may adapt their plan at any time."
+        "text": "Yes; plan changes are made only at Sprint Planning."
       }
     ],
     "correct": "A"
@@ -5272,7 +5272,7 @@
       },
       {
         "key": "E",
-        "text": "Both events exceed their two-hour maximum. SHORT ANSWER: B. The Retrospective exceeds its three-hour maximum."
+        "text": "Both events exceed their two-hour maximum."
       }
     ],
     "correct": "B"
@@ -5301,7 +5301,7 @@
       },
       {
         "key": "E",
-        "text": "Velocity tracking. SHORT ANSWER: A. Personas."
+        "text": "Velocity tracking."
       }
     ],
     "correct": "A"
@@ -5330,7 +5330,7 @@
       },
       {
         "key": "E",
-        "text": "As a starting point for a representative pool of personas. SHORT ANSWER: E. As a starting point for a representative pool of personas."
+        "text": "As a starting point for a representative pool of personas."
       }
     ],
     "correct": "E"
@@ -5359,7 +5359,7 @@
       },
       {
         "key": "E",
-        "text": "Personas must always start with the long template. SHORT ANSWER: A. Personas are not a substitute for real user input."
+        "text": "Personas must always start with the long template."
       }
     ],
     "correct": "A"
@@ -5388,7 +5388,7 @@
       },
       {
         "key": "E",
-        "text": "Only developers write stories, since they estimate and deliver them. SHORT ANSWER: B. Several roles may write stories; not every item must be one."
+        "text": "Only developers write stories, since they estimate and deliver them."
       }
     ],
     "correct": "B"
@@ -5417,7 +5417,7 @@
       },
       {
         "key": "E",
-        "text": "The product owner and stakeholders. SHORT ANSWER: E. The product owner and stakeholders."
+        "text": "The product owner and stakeholders."
       }
     ],
     "correct": "E"
@@ -5446,7 +5446,7 @@
       },
       {
         "key": "E",
-        "text": "They can be supplemented with analysis models. SHORT ANSWER: C. They are simple enough to learn very quickly."
+        "text": "They can be supplemented with analysis models."
       }
     ],
     "correct": "C"
@@ -5475,7 +5475,7 @@
       },
       {
         "key": "E",
-        "text": "Stories are too large to finish in one iteration. SHORT ANSWER: D. Stories do not give full specs upfront."
+        "text": "Stories are too large to finish in one iteration."
       }
     ],
     "correct": "D"
